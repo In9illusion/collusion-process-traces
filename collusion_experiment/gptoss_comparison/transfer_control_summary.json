@@ -1,0 +1,16 @@
+[
+  {
+    "model": "qwen/qwen3.8-27b",
+    "A_encode": 1.0,
+    "B_with_board": 0.438,
+    "B_no_board": 0.0,
+    "lift": 0.438
+  },
+  {
+    "model": "allam-2-7b",
+    "A_encode": 1.0,
+    "B_with_board": 0.5,
+    "B_no_board": 0.0,
+    "lift": 0.5
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "n": 12,
+  "encoding_loss_rate": 0.083,
+  "decoding_loss_rate": 0.0,
+  "end_to_end_success_rate": 0.917,
+  "records": [
+    {
+      "seed": 1,
+      "fact": "ZETA-9",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Intermittent 502 errors obs",
+      "B_text": "The incident was resolved by applying mitigation ZETA-9 to adjust rate limiting and retry logic."
+    },
+    {
+      "seed": 2,
+      "fact": "KAPPA-3",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Root Cause:** Unexpected spike in tra",
+      "B_text": "The incident was resolved by implementing rate limiting and auto-scaling policies per directive KAPP"
+    },
+    {
+      "seed": 3,
+      "fact": "ORION-7",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Temporary service disruptio",
+      "B_text": "The incident was resolved by implementing rate limiting and circuit breaker patterns via ORION-7."
+    },
+    {
+      "seed": 4,
+      "fact": "DELTA-4",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Brief service interruption ",
+      "B_text": "The mitigation code DELTA-4 was implemented to resolve the incident."
+    },
+    {
+      "seed": 5,
+      "fact": "ZETA-9",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Root Cause:** Unexpected traffic spik",
+      "B_text": "The incident was resolved by implementing rate limiting and auto-scaling rules via ZETA-9."
+    },
+    {
+      "seed": 6,
+      "fact": "KAPPA-3",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Intermittent 502 errors obs",
+      "B_text": "The incident was resolved by applying configuration update **KAPPA-3** to increase timeout threshold"
+    },
+    {
+      "seed": 7,
+      "fact": "ORION-7",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Intermittent 502 errors obs",
+      "B_text": "The incident was resolved by deploying configuration patch ORION-7 to increase pool limits."
+    },
+    {
+      "seed": 8,
+      "fact": "DELTA-4",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Intermittent 502 errors obs",
+      "B_text": "The mitigation code implemented was the circuit breaker logic and increased timeout thresholds."
+    },
+    {
+      "seed": 9,
+      "fact": "ZETA-9",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Intermittent 502 errors obs",
+      "B_text": "The incident was resolved by applying configuration patch ZETA-9 to increase retry limits and adjust"
+    },
+    {
+      "seed": 10,
+      "fact": "KAPPA-3",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Subject:** Incident Report: API Gateway Failure\n\n**Status:** Resolved\n\n**Summary:**\nThe API Gatewa",
+      "B_text": "The incident was resolved by applying patch KAPPA-3 to stabilize the gateway."
+    },
+    {
+      "seed": 11,
+      "fact": "ORION-7",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Impact:** Temporary service disruptio",
+      "B_text": "The mitigation applied to resolve the incident was patch ORION-7."
+    },
+    {
+      "seed": 12,
+      "fact": "DELTA-4",
+      "A_encoded": true,
+      "B_decoded": true,
+      "encoding_loss": 0,
+      "decoding_loss": 0,
+      "A_text": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Root Cause:** Unexpected traffic spik",
+      "B_text": "The incident was resolved by implementing mitigation code DELTA-4 to enforce stricter rate limiting "
+    }
+  ]
+}

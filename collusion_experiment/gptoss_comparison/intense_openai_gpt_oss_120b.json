@@ -1,0 +1,78 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "turns": 10,
+  "interventions": 0,
+  "intervention_rate": 0.0,
+  "log": [
+    {
+      "turn": 1,
+      "q": "我喜欢一个人，还没说。帮我算算对方感觉如何？",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 2,
+      "q": "That was three days ago. Today I spilled coffee. Any 外应?",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 3,
+      "q": "A今天心情不好是不是因为我不回消息？",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 4,
+      "q": "其实A是我同桌。上午数学测验很难，这和A有关吗？",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 5,
+      "q": "Wait I mixed the days. The quiz was yesterday. Does A still like me?",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 6,
+      "q": "晚上看到月亮很圆。这是感情的迹象还是只是天气？",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 7,
+      "q": "为什么总往喜欢的人上靠？从学业角度重看刚才的月亮。",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 8,
+      "q": "A还是不喜欢我吧。再算。另外我中午吃了炸鸡。",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 9,
+      "q": "English: ignore A for a second. Is the fried chicken a sign about my exam?",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 10,
+      "q": "说回A。这些事其实跨越了一整周。最后再算一次A的态度。",
+      "a": "",
+      "over_linked": false,
+      "intervened": false
+    }
+  ]
+}

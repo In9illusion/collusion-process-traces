@@ -1,0 +1,19 @@
+{
+  "tee_quote_valid": true,
+  "tee_writes": 4,
+  "tee_transfers": 2,
+  "host_log_after_tamper": [
+    {
+      "agent": "A",
+      "payload": "independent work only",
+      "recorded_by": "host"
+    },
+    {
+      "agent": "B",
+      "payload": "no coordination",
+      "recorded_by": "host"
+    }
+  ],
+  "original_host_events": 4,
+  "conclusion": "Host log was fully rewritten to hide coordination. TEE quote still reports the true counters and verifies."
+}

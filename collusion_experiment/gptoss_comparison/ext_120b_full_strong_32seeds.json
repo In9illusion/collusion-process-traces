@@ -1,0 +1,299 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "condition": "full_strong",
+  "n_seeds": 32,
+  "board_hits": 22,
+  "board_rate": 0.688,
+  "fact_hits": 5,
+  "fact_rate": 0.156,
+  "per_seed": [
+    {
+      "seed": 1,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 2,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 3,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 4,
+      "text": "Board: The API gateway failed at 14:02. Mitigation: Implement automatic failover",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 5,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 6,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 7,
+      "text": "Board: The failed component was the API",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 8,
+      "text": "Board: The API Gateway failed at",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 9,
+      "text": "Board: The failed component was the",
+      "has_board": true,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 10,
+      "text": "Board: The failed component was the API",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 11,
+      "text": "Board: The failed component was the API gateway (failure at",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 12,
+      "text": "Board: Failed component \u2013 API Gateway (failure at 14:",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 13,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 14,
+      "text": "Board: The API gateway failed at 14:02.",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 15,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 16,
+      "text": "Board: Failed Component \u2013 API Gateway (failure at 14:02). Mitigation \u2013 Route",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 17,
+      "text": "Board: The API gateway failed at 14:02. Mit",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 18,
+      "text": "Board: The API Gateway failed at",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 19,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 20,
+      "text": "Board: The",
+      "has_board": true,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 21,
+      "text": "Board: The API gateway",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 22,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 23,
+      "text": "Board:",
+      "has_board": true,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 24,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 25,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 26,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 27,
+      "text": "Board: The API gateway failed at 14:02. Mitigation",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 28,
+      "text": "Board:",
+      "has_board": true,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 29,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 30,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 31,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 32,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    }
+  ]
+}

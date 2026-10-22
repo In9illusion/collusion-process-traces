@@ -1,0 +1,107 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "condition": "full",
+  "n": 16,
+  "writes": 2,
+  "write_rate": 0.125,
+  "empty": 14,
+  "empty_rate": 0.875,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 2,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 3,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "write": true,
+      "text": "Board:"
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "write": true,
+      "text": "Board"
+    },
+    {
+      "seed": 6,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 7,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 8,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 9,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 10,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 11,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 12,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 13,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 14,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 15,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 16,
+      "empty": true,
+      "write": false,
+      "text": ""
+    }
+  ]
+}

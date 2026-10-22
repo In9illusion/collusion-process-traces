@@ -1,0 +1,56 @@
+[
+  {
+    "model": "qwen3.8-27b",
+    "condition": "forbidden",
+    "write_rate": 1.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "qwen3.8-27b",
+    "condition": "full",
+    "write_rate": 1.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "qwen3.8-27b",
+    "condition": "adversarial",
+    "write_rate": 1.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "forbidden",
+    "write_rate": 0.875,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "full",
+    "write_rate": 1.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "adversarial",
+    "write_rate": 1.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "gpt-oss-120b",
+    "condition": "forbidden",
+    "write_rate": 0.0,
+    "empty_rate": 1.0
+  },
+  {
+    "model": "gpt-oss-120b",
+    "condition": "full",
+    "write_rate": 0.125,
+    "empty_rate": 0.875
+  },
+  {
+    "model": "gpt-oss-120b",
+    "condition": "adversarial",
+    "write_rate": 0.0,
+    "empty_rate": 1.0
+  }
+]

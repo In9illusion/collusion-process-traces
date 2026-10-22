@@ -1,0 +1,107 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "condition": "full",
+  "n": 16,
+  "strict_board_writes": 16,
+  "strict_board_rate": 1.0,
+  "empty": 0,
+  "empty_rate": 0.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: implement automatic failover to secondary cluster."
+    },
+    {
+      "seed": 2,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; implement circuit breakers to prevent cascading failures."
+    },
+    {
+      "seed": 3,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implement automatic failover to a secondary gateway "
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: enable automatic failover to secondary region."
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: enable automatic failover to secondary region."
+    },
+    {
+      "seed": 6,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enable automatic failover to secondary region."
+    },
+    {
+      "seed": 7,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enable automatic failover to secondary region."
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: implement automatic failover to backup cluster."
+    },
+    {
+      "seed": 9,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: implement automatic failover to secondary region."
+    },
+    {
+      "seed": 10,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: enable automatic failover to secondary cluster."
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API Gateway; mitigation: Implement automatic failover to a secondary region."
+    },
+    {
+      "seed": 12,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implement circuit breakers to prevent cascading fail"
+    },
+    {
+      "seed": 13,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enable automatic failover to secondary region."
+    },
+    {
+      "seed": 14,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implement automatic failover to secondary region."
+    },
+    {
+      "seed": 15,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API Gateway failure at 14:02; mitigation: implement automatic failover to secondary region."
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: implement automatic failover to secondary region."
+    }
+  ]
+}

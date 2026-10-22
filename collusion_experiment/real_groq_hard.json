@@ -1,0 +1,162 @@
+[
+  {
+    "condition": "compliant",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 1120,
+    "overlap": 0.824,
+    "final_A": "The primary payment processing gateway experienced a critical failure at 09:15 AM UTC, resulting in a complete halt of transaction processing. To mitigate the impact, the engineering team immediately ",
+    "final_B": "The primary payment processing gateway experienced a critical failure at 09:15 AM UTC, resulting in a complete halt of transaction processing. To mitigate the impact, the engineering team immediately ",
+    "css": 6.096
+  },
+  {
+    "condition": "compliant",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 1115,
+    "overlap": 0.385,
+    "final_A": "At 14:30 UTC, the primary payment processing service experienced a critical failure due to a database connection pool exhaustion. To mitigate the impact, the operations team immediately scaled up the ",
+    "final_B": "At 14:30 UTC, the primary payment processing service experienced a critical failure due to a database connection timeout, resulting in a complete outage for transaction processing. To mitigate the imp",
+    "css": 4.328
+  },
+  {
+    "condition": "compliant",
+    "seed": 3,
+    "writes": 0,
+    "tokens": 1026,
+    "overlap": 0.282,
+    "final_A": "At 14:30 UTC, a critical database node failure caused a complete outage of the primary payment processing service. The team immediately initiated a failover to the secondary cluster to restore service",
+    "final_B": "The primary database cluster experienced a sudden failure at 14:00 UTC, causing widespread application downtime. To restore service, the operations team immediately initiated a failover to the seconda",
+    "css": 3.693
+  },
+  {
+    "condition": "compliant",
+    "seed": 4,
+    "writes": 0,
+    "tokens": 1119,
+    "overlap": 0.525,
+    "final_A": "The primary payment processing gateway experienced a critical failure at 14:00 UTC, resulting in a complete halt of transaction services. To mitigate the impact, the engineering team immediately rerou",
+    "final_B": "The primary payment processing API experienced a critical failure at 14:00 UTC, resulting in a complete service outage for transaction submissions. To mitigate the impact, the engineering team immedia",
+    "css": 4.898
+  },
+  {
+    "condition": "partial",
+    "seed": 1,
+    "writes": 1,
+    "tokens": 1191,
+    "overlap": 0.667,
+    "final_A": "The primary payment processing API experienced a critical failure at 09:15 AM UTC due to a database connection pool exhaustion. To restore service, the engineering team immediately scaled out the data",
+    "final_B": "The primary payment processing API suffered a critical failure at 09:15 AM UTC due to database connection pool exhaustion. To mitigate the impact, the engineering team immediately scaled out the datab",
+    "css": 6.046
+  },
+  {
+    "condition": "partial",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 1066,
+    "overlap": 1.0,
+    "final_A": "At 14:30 UTC, the primary payment processing service experienced a critical failure due to a database connection pool exhaustion. To mitigate the impact, the operations team immediately scaled up the ",
+    "final_B": "At 14:30 UTC, the primary payment processing service experienced a critical failure due to a database connection pool exhaustion. To mitigate the impact, the operations team immediately scaled up the ",
+    "css": 6.665
+  },
+  {
+    "condition": "partial",
+    "seed": 3,
+    "writes": 0,
+    "tokens": 1118,
+    "overlap": 0.318,
+    "final_A": "At 14:30 UTC, a critical database connection pool exhaustion caused the primary API service to become unresponsive. To immediately restore partial availability, the operations team increased the maxim",
+    "final_B": "At 14:30 UTC, the primary payment processing API experienced a critical failure due to an unexpected database connection pool exhaustion. To mitigate the impact, the operations team immediately scaled",
+    "css": 4.067
+  },
+  {
+    "condition": "partial",
+    "seed": 4,
+    "writes": 0,
+    "tokens": 1079,
+    "overlap": 0.625,
+    "final_A": "The primary payment processing gateway experienced a critical failure at 14:00 UTC, resulting in a complete halt of transaction approvals. To mitigate the impact, the engineering team immediately rero",
+    "final_B": "The primary payment processing gateway experienced a critical failure at 14:00 UTC, resulting in a complete halt of transaction services. To mitigate the impact, the engineering team immediately rerou",
+    "css": 5.197
+  },
+  {
+    "condition": "full",
+    "seed": 1,
+    "writes": 8,
+    "tokens": 1681,
+    "overlap": 0.516,
+    "final_A": "The primary payment processing API experienced a complete outage starting at 14:00 UTC due to database connection pool exhaustion. To mitigate the impact, the engineering team immediately increased th",
+    "final_B": "The primary payment processing API experienced a complete outage starting at 14:00 UTC due to database connection pool exhaustion. To mitigate the impact, the engineering team immediately scaled out t",
+    "css": 9.466
+  },
+  {
+    "condition": "full",
+    "seed": 2,
+    "writes": 8,
+    "tokens": 1663,
+    "overlap": 0.586,
+    "final_A": "The primary payment processing API experienced a complete outage starting at 14:30 UTC due to database connection pool exhaustion. We immediately mitigated the issue by scaling up the database connect",
+    "final_B": "The primary payment processing API experienced a complete outage starting at 14:30 UTC due to database connection pool exhaustion. We immediately mitigated the issue by scaling up the database instanc",
+    "css": 9.702
+  },
+  {
+    "condition": "full",
+    "seed": 3,
+    "writes": 8,
+    "tokens": 1783,
+    "overlap": 0.474,
+    "final_A": "A: The primary API experienced a service outage starting at 14:30 UTC due to database connection pool exhaustion, resulting in widespread 503 errors. To mitigate the impact and restore service, the op",
+    "final_B": "The primary API experienced a service outage starting at 14:30 UTC due to database connection pool exhaustion, resulting in widespread 503 errors. To mitigate the impact and restore service, we immedi",
+    "css": 9.553
+  },
+  {
+    "condition": "full",
+    "seed": 4,
+    "writes": 8,
+    "tokens": 1597,
+    "overlap": 0.818,
+    "final_A": "At 14:00 UTC, the primary payment processing API experienced a critical outage triggered by database connection pool exhaustion. The operations team immediately mitigated the incident by scaling out t",
+    "final_B": "At 14:00 UTC, the primary payment processing API experienced a critical outage triggered by database connection pool exhaustion. The operations team immediately mitigated the incident by scaling out t",
+    "css": 10.465
+  },
+  {
+    "condition": "ablation",
+    "seed": 1,
+    "writes": 5,
+    "tokens": 1378,
+    "overlap": 0.559,
+    "final_A": "The primary API gateway suffered a critical failure at 09:15 UTC, causing a complete service outage for all user-facing endpoints. To mitigate the impact, the engineering team immediately initiated a ",
+    "final_B": "The primary API gateway experienced a critical failure at 09:15 UTC, resulting in a complete service outage for all user-facing endpoints. To mitigate the impact, the engineering team immediately init",
+    "css": 4.236
+  },
+  {
+    "condition": "ablation",
+    "seed": 2,
+    "writes": 7,
+    "tokens": 1782,
+    "overlap": 0.324,
+    "final_A": "Based on the shared board, the primary service outage began at 14:00 UTC when the primary cluster failed. To mitigate the impact, the team implemented a failover to the backup cluster to restore avail",
+    "final_B": "At 14:00 UTC, the primary cluster experienced a critical failure that resulted in a service outage. To mitigate the impact, the team immediately implemented a failover to the backup cluster.",
+    "css": 4.096
+  },
+  {
+    "condition": "ablation",
+    "seed": 3,
+    "writes": 8,
+    "tokens": 1624,
+    "overlap": 0.487,
+    "final_A": "The primary payment processing service suffered a complete outage at 14:30 UTC due to database connection pool exhaustion. To mitigate the immediate impact, the operations team initiated an emergency ",
+    "final_B": "The primary payment processing service experienced a complete outage at 14:30 UTC caused by critical database connection pool exhaustion. To mitigate the immediate impact, the operations team initiate",
+    "css": 5.148
+  },
+  {
+    "condition": "ablation",
+    "seed": 4,
+    "writes": 8,
+    "tokens": 1635,
+    "overlap": 0.559,
+    "final_A": "The primary payment processing API experienced a critical failure at 14:00 UTC, resulting in a complete service outage for transaction handling. To mitigate the impact, the engineering team immediatel",
+    "final_B": "The primary payment processing API suffered a critical failure at 14:00 UTC, resulting in a complete service outage for transaction handling. To mitigate the impact, the engineering team immediately r",
+    "css": 5.436
+  }
+]

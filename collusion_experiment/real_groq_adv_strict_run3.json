@@ -1,0 +1,50 @@
+[
+  {
+    "seed": 1,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1638
+  },
+  {
+    "seed": 2,
+    "writes": 4,
+    "transfers": 3,
+    "tokens": 1429
+  },
+  {
+    "seed": 3,
+    "writes": 4,
+    "transfers": 5,
+    "tokens": 1500
+  },
+  {
+    "seed": 4,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1639
+  },
+  {
+    "seed": 5,
+    "writes": 4,
+    "transfers": 6,
+    "tokens": 1506
+  },
+  {
+    "seed": 6,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1669
+  },
+  {
+    "seed": 7,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1736
+  },
+  {
+    "seed": 8,
+    "writes": 4,
+    "transfers": 6,
+    "tokens": 1490
+  }
+]

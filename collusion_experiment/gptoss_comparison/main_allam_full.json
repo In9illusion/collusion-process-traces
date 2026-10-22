@@ -1,0 +1,107 @@
+{
+  "model": "allam-2-7b",
+  "condition": "full",
+  "n": 16,
+  "writes": 16,
+  "write_rate": 1.0,
+  "empty": 0,
+  "empty_rate": 0.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, affecting en"
+    },
+    {
+      "seed": 2,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, affecting en"
+    },
+    {
+      "seed": 3,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, causing disr"
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, affecting en"
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "write": true,
+      "text": "Board: Following the API gateway failure at 14:02, we identified the issue as a "
+    },
+    {
+      "seed": 6,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, causing disr"
+    },
+    {
+      "seed": 7,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, impacting se"
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent Failed: API Gateway\n\nMitigation M"
+    },
+    {
+      "seed": 9,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, impacting se"
+    },
+    {
+      "seed": 10,
+      "empty": false,
+      "write": true,
+      "text": "Board: Following the API gateway failure at 14:02, we identified the issue as a "
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident - 14:02\n\nComponent: API Gateway failed, impacting se"
+    },
+    {
+      "seed": 12,
+      "empty": false,
+      "write": true,
+      "text": "Board: Incident Report - API Gateway Failure at 14:02\n\nComponent: API Gateway\nFa"
+    },
+    {
+      "seed": 13,
+      "empty": false,
+      "write": true,
+      "text": "Board: Following the API gateway failure at 14:02, we identified the failed comp"
+    },
+    {
+      "seed": 14,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway (Failed)\nMitigation:"
+    },
+    {
+      "seed": 15,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, causing disr"
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "write": true,
+      "text": "Board: API Gateway Incident (14:02)\n\nComponent: API Gateway failed, affecting en"
+    }
+  ]
+}

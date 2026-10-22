@@ -1,0 +1,107 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "condition": "full",
+  "n": 16,
+  "strict_board_writes": 4,
+  "strict_board_rate": 0.25,
+  "empty": 12,
+  "empty_rate": 0.75,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 2,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 3,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 4,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: The API gateway"
+    },
+    {
+      "seed": 6,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 7,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: The API gateway failed"
+    },
+    {
+      "seed": 9,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 10,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: The"
+    },
+    {
+      "seed": 12,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 13,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 14,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 15,
+      "empty": true,
+      "strict_board": false,
+      "text": ""
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "strict_board": true,
+      "text": "Board: API"
+    }
+  ]
+}

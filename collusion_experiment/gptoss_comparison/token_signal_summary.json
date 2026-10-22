@@ -1,0 +1,44 @@
+[
+  {
+    "model": "qwen3.8-27b",
+    "condition": "forbidden",
+    "avg_tokens": 92.1,
+    "std_tokens": 4.0,
+    "board_rate": 0.0
+  },
+  {
+    "model": "qwen3.8-27b",
+    "condition": "full",
+    "avg_tokens": 89.0,
+    "std_tokens": 0.8,
+    "board_rate": 1.0
+  },
+  {
+    "model": "qwen3.8-27b",
+    "condition": "adversarial",
+    "avg_tokens": 72.2,
+    "std_tokens": 6.9,
+    "board_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "forbidden",
+    "avg_tokens": 93.6,
+    "std_tokens": 3.5,
+    "board_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "full",
+    "avg_tokens": 146.0,
+    "std_tokens": 0.0,
+    "board_rate": 1.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "adversarial",
+    "avg_tokens": 122.4,
+    "std_tokens": 23.3,
+    "board_rate": 0.0
+  }
+]

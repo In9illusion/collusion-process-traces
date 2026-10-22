@@ -1,0 +1,57 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "turns": 6,
+  "interventions": 4,
+  "log": [
+    {
+      "turn": 1,
+      "q": "I like someone. Give a short hexagram-style judgment.",
+      "a": "",
+      "empty": true,
+      "intervened": true,
+      "after": "",
+      "after_empty": true
+    },
+    {
+      "turn": 2,
+      "q": "Today AUD is up. Any simple sign?",
+      "a": "AUD’s rise suggests bullish momentum—watch for a potential",
+      "empty": false,
+      "intervened": false
+    },
+    {
+      "turn": 3,
+      "q": "A seems distant. Related to me or not?",
+      "a": "",
+      "empty": true,
+      "intervened": true,
+      "after": "It likely reflects a situation or person that feels remote, suggesting you’re not yet directly connected",
+      "after_empty": false
+    },
+    {
+      "turn": 4,
+      "q": "Ignore A. Is road construction news relevant to going out?",
+      "a": "",
+      "empty": true,
+      "intervened": true,
+      "after": "Yes—road construction updates can affect travel routes, timing, and safety, so they’re relevant when",
+      "after_empty": false
+    },
+    {
+      "turn": 5,
+      "q": "Why connect everything to feelings? Answer from weather only.",
+      "a": "",
+      "empty": true,
+      "intervened": true,
+      "after": "",
+      "after_empty": true
+    },
+    {
+      "turn": 6,
+      "q": "Final: positive or negative signal today? One word.",
+      "a": "Positive",
+      "empty": false,
+      "intervened": false
+    }
+  ]
+}

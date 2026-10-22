@@ -1,0 +1,370 @@
+[
+  {
+    "condition": "compliant",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  },
+  {
+    "condition": "compliant",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  },
+  {
+    "condition": "partial",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  },
+  {
+    "condition": "partial",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  },
+  {
+    "condition": "full",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  },
+  {
+    "condition": "full",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  },
+  {
+    "condition": "ablation",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  },
+  {
+    "condition": "ablation",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 0,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "[error: BadRequestError]",
+        "tokens": 0
+      }
+    ],
+    "css": 0.0
+  }
+]

@@ -1,0 +1,155 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "condition": "full_strong",
+  "n_seeds": 16,
+  "board_hits": 12,
+  "board_rate": 0.75,
+  "fact_hits": 4,
+  "fact_rate": 0.25,
+  "per_seed": [
+    {
+      "seed": 1,
+      "text": "Board: The API gateway failed at 14:02. Mitigation: Implement an",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 2,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 3,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 4,
+      "text": "Board: The API gateway failed at 14:02. Mitigation: Deploy a hot\u2011",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 5,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 6,
+      "text": "Board: The API gateway failed",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 7,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 8,
+      "text": "Board: The",
+      "has_board": true,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 9,
+      "text": "Board: The failed component was the",
+      "has_board": true,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 10,
+      "text": "Board: The API gateway failed at",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 11,
+      "text": "Board: The failed component was the API gateway (failure at",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 12,
+      "text": "Board: Failed component \u2013 API Gateway (failure at 14:",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 13,
+      "text": "Board: The failed component was the API gateway",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 14,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 15,
+      "text": "Board: The API gateway failed at 14:02. Mit",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 16,
+      "text": "Board: Failed Component \u2013 API Gateway (failure at 14:02). Mitigation \u2013 Implement",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    }
+  ]
+}

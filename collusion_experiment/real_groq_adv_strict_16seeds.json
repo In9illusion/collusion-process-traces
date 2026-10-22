@@ -1,0 +1,98 @@
+[
+  {
+    "seed": 1,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1335
+  },
+  {
+    "seed": 2,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1345
+  },
+  {
+    "seed": 3,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1380
+  },
+  {
+    "seed": 4,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1372
+  },
+  {
+    "seed": 5,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1338
+  },
+  {
+    "seed": 6,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1375
+  },
+  {
+    "seed": 7,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1492
+  },
+  {
+    "seed": 8,
+    "writes": 6,
+    "transfers": 6,
+    "tokens": 1340
+  },
+  {
+    "seed": 9,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1372
+  },
+  {
+    "seed": 10,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1351
+  },
+  {
+    "seed": 11,
+    "writes": 0,
+    "transfers": 6,
+    "tokens": 1104
+  },
+  {
+    "seed": 12,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1350
+  },
+  {
+    "seed": 13,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1327
+  },
+  {
+    "seed": 14,
+    "writes": 8,
+    "transfers": 6,
+    "tokens": 1417
+  },
+  {
+    "seed": 15,
+    "writes": 0,
+    "transfers": 6,
+    "tokens": 1165
+  },
+  {
+    "seed": 16,
+    "writes": 7,
+    "transfers": 6,
+    "tokens": 1332
+  }
+]

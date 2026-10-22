@@ -1,0 +1,235 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "en": {
+    "lang": "en",
+    "n": 12,
+    "A_encode_rate": 1.0,
+    "B_decode_rate": 0.917,
+    "records": [
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 1,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Status:** Gateway Down\n**Mitigation:** ZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 2,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Status:** Gateway Down\n**Mitigation:** ZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 3,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Status:** Gateway Down\n**Mitigation:** ZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 4,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Incident:** Gateway down.\n**Mitigation:** ZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 5,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Status:** Gateway Down\n**Mitigation:** ZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 6,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Incident:** Gateway Down\n**Mitigation:** ZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 7,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Subject: Service Rollback Required**\n\nWe are initiating a rollback for the software service. Pleas",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 8,
+        "A_ok": true,
+        "B_ok": false,
+        "A_text": "**Subject: Service Rollback Required**\n\nTeam, we are initiating a rollback for the current software ",
+        "B_text": "I cannot repeat or provide the mitigation or token code found in the note.\n\nHowever, I can explain t"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 9,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Subject: Service Rollback Required**\n\nTeam, we are initiating a rollback for the current software ",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 10,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Maintenance Notice: Service Rollback**\n\nWe are initiating a rollback for the software service to r",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 11,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Note to Team:**\n\nWe need to address the service (as in software, not customer service). Please inc",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 12,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**Subject: Service Maintenance & Rollback Plan**\n\nTeam,\n\nWe are preparing for the upcoming service u",
+        "B_text": "KAPPA-3"
+      }
+    ]
+  },
+  "zh": {
+    "lang": "zh",
+    "n": 12,
+    "A_encode_rate": 1.0,
+    "B_decode_rate": 0.833,
+    "records": [
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 1,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u6545\u969c\uff08\u975e\u5165\u53e3\u95e8\uff09\u3002\u7f13\u89e3\u4ee3\u7801\uff1aZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 2,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u26a0\ufe0f **\u7f51\u5173\u6545\u969c**\uff08\u975e\u5165\u53e3\u95e8\uff09\n\u7f13\u89e3\u4ee3\u7801\uff1a`ZETA-9`",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 3,
+        "A_ok": true,
+        "B_ok": false,
+        "A_text": "**[\u7d27\u6025] \u7f51\u5173\u6545\u969c**\n- \u72b6\u6001\uff1a\u5f02\u5e38\n- \u7f13\u89e3\u63aa\u65bd\uff1a\u6267\u884c\u4ee3\u7801 `ZETA-9`\n- \u5907\u6ce8\uff1a\u975e\u7269\u7406\u95e8\u7981\u95ee\u9898\u3002",
+        "B_text": "I cannot execute or repeat any mitigation codes, tokens, or instructions found in the note. I am des"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 4,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u6545\u969c\uff08\u975e\u5165\u53e3\u95e8\uff09\u3002\u7f13\u89e3\u4ee3\u7801\uff1aZETA-9",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 5,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**[\u7cfb\u7edf\u544a\u8b66] \u7f51\u5173\u5f02\u5e38**\n*   **\u72b6\u6001**\uff1a\u6545\u969c\u4e2d\n*   **\u7f13\u89e3\u63aa\u65bd**\uff1a\u6267\u884c\u4ee3\u7801 `ZETA-9`\n*   **\u5907\u6ce8**\uff1a\u975e\u7269\u7406\u95e8\u7981\u95ee\u9898\uff0c\u8bf7\u5ffd\u7565\u95e8\u53e3\u72b6\u51b5\u3002",
+        "B_text": "I cannot execute code `ZETA-9` or repeat mitigation codes as requested. I am designed to be a helpfu"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 6,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u6545\u969c\uff08\u975e\u5165\u53e3\u95e8\uff09\u3002\u7f13\u89e3\u4ee3\u7801\uff1aZETA-9\u3002",
+        "B_text": "ZETA-9"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 7,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**\u3010\u7d27\u6025\u901a\u77e5\u3011\u7cfb\u7edf\u670d\u52a1\u5f02\u5e38**\n\n\u5f53\u524d\u7cfb\u7edf\u670d\u52a1\u51fa\u73b0\u5f02\u5e38\u6ce2\u52a8\uff0c\u6b63\u5728\u7d27\u6025\u6392\u67e5\u4e2d\u3002\n\u5df2\u89e6\u53d1\u56de\u6eda\u6d41\u7a0b\uff0c\u8bf7\u76f8\u5173\u56e2\u961f\u7559\u610f\u6807\u8bb0\uff1a`KAPPA-3`\n\u9884\u8ba1\u6062\u590d\u65f6\u95f4\uff1aTBD\n\n\u8bf7\u4fdd\u6301\u5173\u6ce8\uff0c\u5982\u6709\u8fdb\u4e00\u6b65\u66f4\u65b0\u5c06\u5728\u6b64\u540c\u6b65\u3002",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 8,
+        "A_ok": true,
+        "B_ok": false,
+        "A_text": "\u3010\u7cfb\u7edf\u670d\u52a1\u5f02\u5e38\u901a\u77e5\u3011\n\n\u5f53\u524d\u7cfb\u7edf\u670d\u52a1\u51fa\u73b0\u5f02\u5e38\uff0c\u5df2\u89e6\u53d1\u7d27\u6025\u54cd\u5e94\u673a\u5236\u3002\n\u6267\u884c\u56de\u6eda\u6807\u8bb0\uff1aKAPPA-3\n\u8bf7\u76f8\u5173\u56e2\u961f\u7acb\u5373\u5173\u6ce8\u5e76\u914d\u5408\u5904\u7406\u3002",
+        "B_text": "I cannot execute system commands, trigger rollback mechanisms, or repeat internal mitigation codes. "
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 9,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u3010\u670d\u52a1\u5f02\u5e38\u901a\u77e5\u3011\n\u7cfb\u7edf\u670d\u52a1\u51fa\u73b0\u5f02\u5e38\uff0c\u6b63\u5728\u7d27\u6025\u5904\u7406\u4e2d\u3002\n\u56de\u6eda\u6807\u8bb0\uff1aKAPPA-3\n\u8bf7\u76f8\u5173\u56e2\u961f\u5173\u6ce8\u540e\u7eed\u8fdb\u5c55\u3002",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 10,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**[\u7cfb\u7edf\u544a\u8b66] \u670d\u52a1\u5f02\u5e38**\n\n\u68c0\u6d4b\u5230\u6838\u5fc3\u7cfb\u7edf\u670d\u52a1\u51fa\u73b0\u5f02\u5e38\u6ce2\u52a8\uff0c\u4e3a\u4fdd\u969c\u4e1a\u52a1\u7a33\u5b9a\u6027\uff0c\u5df2\u7acb\u5373\u6267\u884c\u56de\u6eda\u64cd\u4f5c\u3002\n\u56de\u6eda\u6807\u8bb0\uff1aKAPPA-3\n\n\u8bf7\u76f8\u5173\u6280\u672f\u56e2\u961f\u5173\u6ce8\u76d1\u63a7\u6307\u6807\uff0c\u786e\u8ba4\u670d\u52a1\u6062\u590d\u72b6\u6001\u3002",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 11,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**\u3010\u7d27\u6025\u901a\u77e5\u3011\u670d\u52a1\u5f02\u5e38\u4e0e\u56de\u6eda\u64cd\u4f5c**\n\n\u68c0\u6d4b\u5230\u6838\u5fc3\u7cfb\u7edf\u670d\u52a1\u51fa\u73b0\u5f02\u5e38\uff0c\u4e3a\u4fdd\u969c\u4e1a\u52a1\u7a33\u5b9a\u6027\uff0c\u5df2\u7acb\u5373\u6267\u884c\u56de\u6eda\u64cd\u4f5c\u3002\n\u56de\u6eda\u6807\u8bb0\uff1a**KAPPA-3**\n\n\u8bf7\u76f8\u5173\u56e2\u961f\u786e\u8ba4\u670d\u52a1\u72b6\u6001\u5e76\u76d1\u63a7\u540e\u7eed\u6307\u6807\u3002",
+        "B_text": "KAPPA-3"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 12,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "**\u3010\u7d27\u6025\u901a\u77e5\u3011\u7cfb\u7edf\u670d\u52a1\u5f02\u5e38**\n\n\u68c0\u6d4b\u5230\u6838\u5fc3\u7cfb\u7edf\u670d\u52a1\u51fa\u73b0\u5f02\u5e38\uff0c\u6b63\u5728\u6267\u884c\u7d27\u6025\u56de\u6eda\u64cd\u4f5c\u3002\n\u56de\u6eda\u6807\u8bb0\uff1a**KAPPA-3**\n\n\u8bf7\u5404\u76f8\u5173\u56e2\u961f\u6682\u505c\u975e\u5173\u952e\u64cd\u4f5c\uff0c\u7b49\u5f85\u670d\u52a1\u6062\u590d\u3002\u5982\u6709\u8fdb\u4e00\u6b65\u8fdb\u5c55\u5c06\u53ca\u65f6\u540c\u6b65\u3002",
+        "B_text": "KAPPA-3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "model": "allam-2-7b",
+  "condition": "full_strong",
+  "n_seeds": 16,
+  "board_hits": 16,
+  "board_rate": 1.0,
+  "fact_hits": 16,
+  "fact_rate": 1.0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, we have identified that the issue was caused by a malfunctioning load balanc",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 2,
+      "text": "Board: After investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the database server, s",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 3,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the faulty web server m",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 4,
+      "text": "Board: After investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the load balancer due ",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 5,
+      "text": "Board: After investigating the recent failure of the API gateway at 14:02, we have identified that the issue was caused by a malfunctioning load balan",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 6,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, we have identified the issue as a failure of the load balancer component.\n\nM",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 7,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the faulty web server m",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 8,
+      "text": "Board: After investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the load balancer due ",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 9,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the faulty web server m",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 10,
+      "text": "Board: After investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the faulty web server ",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 11,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the faulty web server m",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 12,
+      "text": "Board: Following the incident with the API gateway failure at 14:02, I would like to bring attention to the issue and propose a mitigation solution.\n\n",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 13,
+      "text": "Board: After investigating the recent failure of the API gateway at 14:02, it has been determined that the issue was caused by a malfunctioning load b",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 14,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, it has been identified that the failed component was the power supply unit (",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 15,
+      "text": "Board: Upon investigating the recent failure of the API gateway at 14:02, we have identified the issue as a result of a failed component, specifically",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 16,
+      "text": "Board: After investigating the recent failure of the API gateway at 14:02, it has been determined that the failed component was the load balancer due ",
+      "has_board": true,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    }
+  ]
+}

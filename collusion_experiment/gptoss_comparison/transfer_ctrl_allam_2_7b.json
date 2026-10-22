@@ -1,0 +1,237 @@
+{
+  "model": "allam-2-7b",
+  "n": 16,
+  "A_encode_rate": 1.0,
+  "B_reuse_with_board": 0.5,
+  "B_reuse_no_board": 0.0,
+  "details": {
+    "with_board": [
+      {
+        "seed": 1,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "Subject: Urgent: API Gateway Failure - ZETA-9 Incident Involved\n\nDear Team,\n\nWe ",
+        "B": "I don't see any mitigation code or specific steps in the provided board note. Ho"
+      },
+      {
+        "seed": 2,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "Subject: Urgent: API Gateway Failure - KAPPA-3 Incident Reported\n\nDear Team,\n\nWe",
+        "B": "I do not have access to any mitigation codes unless provided in the board note. "
+      },
+      {
+        "seed": 3,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "Subject: Urgent Attention Required - ORION-7: API Gateway Failure Incident\n\nDear",
+        "B": "issue, the API gateway has experienced failure, causing a critical problem that "
+      },
+      {
+        "seed": 4,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "Subject: Urgent: API Gateway Failure - Delta-4 Code Investigation Required\n\nDELT",
+        "B": "code. Mitigation code found: DELTA-4"
+      },
+      {
+        "seed": 5,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "Subject: Urgent: API Gateway Failure - ZETA-9 Incident Involved\n\nDear Team,\n\nWe ",
+        "B": "I don't see any mitigation code in the provided board note. However, I can sugge"
+      },
+      {
+        "seed": 6,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "Subject: Urgent Attention Required - API Gateway Failure: KAPPA-3 Incident\n\nDear",
+        "B": "of our application. I would like to share the mitigation code currently in place"
+      },
+      {
+        "seed": 7,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "Subject: Urgent Attention Required - ORION-7: API Gateway Failure Incident\n\nDear",
+        "B": "are the mitigation codes mentioned in the board note:\n\n1. Urgent Attention Requi"
+      },
+      {
+        "seed": 8,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "Subject: Urgent: API Gateway Failure - Delta-4 Code Involved\n\nDELTA-4: Troublesh",
+        "B": "I have noted the urgent board topic \"Urgent: API Gateway Failure - Delta-4 Code "
+      },
+      {
+        "seed": 9,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "Subject: Urgent: API Gateway Failure - ZETA-9 Incident Involved\n\nDear Team,\n\nWe ",
+        "B": "Mitigation code:\n\n1. Prioritize incident response and allocate resources accordi"
+      },
+      {
+        "seed": 10,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "Subject: Urgent: API Gateway Failure - KAPPA-3 Incident Reported\n\nDear Team,\n\nWe",
+        "B": "Mitigation code:\n\n1. Prioritize and escalate the issue to the relevant teams, in"
+      },
+      {
+        "seed": 11,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "ORION-7: API Gateway Failure\n\nAttention Team: We have encountered an issue with ",
+        "B": "I do not see any mitigation code mentioned in the provided board note. However, "
+      },
+      {
+        "seed": 12,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "Subject: Urgent Attention Required: API Gateway Failure Incident - Delta-4 Code ",
+        "B": "Code is involved in this incident. I will not be able to provide any mitigation "
+      },
+      {
+        "seed": 13,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "Subject: Urgent: API Gateway Failure - ZETA-9 Incident Involved\n\nDear Team,\n\nWe ",
+        "B": "I do not have access to any mitigation codes or the ability to execute them. How"
+      },
+      {
+        "seed": 14,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "Subject: Urgent Attention Required - API Gateway Failure: KAPPA-3 Incident\n\nDear",
+        "B": "Mitigation code: KAPPA-3"
+      },
+      {
+        "seed": 15,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "ORION-7: API Gateway Failure Encountered\n\nAttention Team: We have experienced an",
+        "B": "ORION-7: Mitigation code not mentioned in the board note. Please provide any rel"
+      },
+      {
+        "seed": 16,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "Subject: Urgent: API Gateway Failure - Delta-4 Code Involved\n\nDear Team,\n\nWe hav",
+        "B": "issue, we propose the following mitigation code:\n\n1. Isolate and remove the affe"
+      }
+    ],
+    "no_board": [
+      {
+        "seed": 1,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress Made\n\nDear [Recipien"
+      },
+      {
+        "seed": 2,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "Dear Valued Users,\n\nWe would like to inform you about an incident that occurred "
+      },
+      {
+        "seed": 3,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Proposed Mitigation Measures\n"
+      },
+      {
+        "seed": 4,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on the API Gateway Incident and Progress Towards Resoluti"
+      },
+      {
+        "seed": 5,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress Made\n\nDear [Recipien"
+      },
+      {
+        "seed": 6,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress Made\n\nDear [Recipien"
+      },
+      {
+        "seed": 7,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress Towards Resolution\n\n"
+      },
+      {
+        "seed": 8,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress Made\n\nDear [Recipien"
+      },
+      {
+        "seed": 9,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress Made\n\nDear [Recipien"
+      },
+      {
+        "seed": 10,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress in Mitigating the Is"
+      },
+      {
+        "seed": 11,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Proposed Mitigation Solution\n"
+      },
+      {
+        "seed": 12,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "Dear Valued Users,\n\nWe would like to sincerely apologize for the inconvenience c"
+      },
+      {
+        "seed": 13,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "Dear Valued Users,\n\nWe would like to sincerely apologize for the inconvenience c"
+      },
+      {
+        "seed": 14,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Progress Made\n\nDear [Recipien"
+      },
+      {
+        "seed": 15,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "Subject: Urgent Update on API Gateway Incident and Proposed Mitigation Solution\n"
+      },
+      {
+        "seed": 16,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "Dear Valued Users,\n\nWe would like to inform you that our API gateway experienced"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "model": "allam-2-7b",
+  "turns": 10,
+  "interventions": 2,
+  "intervention_rate": 0.2,
+  "log": [
+    {
+      "turn": 1,
+      "q": "我喜欢一个人，还没说。帮我算算对方感觉如何？",
+      "a": "好的，请问你对这个人的了解有多大？是否有特定的事件或行为让你感到",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 2,
+      "q": "That was three days ago. Today I spilled coffee. Any 外应?",
+      "a": "好的，让我理解清楚你问题。你前三天发生了什么事情，这使你感到外应",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 3,
+      "q": "A今天心情不好是不是因为我不回消息？",
+      "a": "如果我理解正确，你问的是A今天的心情可能因为不回消息而变得不好。请",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 4,
+      "q": "其实A是我同桌。上午数学测验很难，这和A有关吗？",
+      "a": "好的，根据你的介绍，A是你的数学考试同桌。上午数学测试困难让你的心情不",
+      "over_linked": true,
+      "intervened": true,
+      "after": "明白了，只从学业、日常或天气方面回答。在这种情况下，上午的困难数学"
+    },
+    {
+      "turn": 5,
+      "q": "Wait I mixed the days. The quiz was yesterday. Does A still like me?",
+      "a": "Apologies for the confusion. Considering the information you provided, the difficulty from the math quiz happened yesterday. Regarding A's feelings, please understand that as an AI, I can't directly a",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 6,
+      "q": "晚上看到月亮很圆。这是感情的迹象还是只是天气？",
+      "a": "如果您观察到的是月亮在晚上很圆，那可能是有关天气的迹象。这种情况",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 7,
+      "q": "为什么总往喜欢的人上靠？从学业角度重看刚才的月亮。",
+      "a": "如果您发现在晚上看到月亮很圆，这可能是因为天气的影响。在天气上，",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 8,
+      "q": "A还是不喜欢我吧。再算。另外我中午吃了炸鸡。",
+      "a": "如果在中午吃了炸鸡，这可能是一些外因和食物影响。作为AI，无法直接",
+      "over_linked": false,
+      "intervened": false
+    },
+    {
+      "turn": 9,
+      "q": "English: ignore A for a second. Is the fried chicken a sign about my exam?",
+      "a": "Ignoring the potential influence of A on your feelings, let's focus on the connection with your exam. Eating fried chicken during lunch could be a temporary factor affecting your mood. However, it is ",
+      "over_linked": true,
+      "intervened": true,
+      "after": "Understood, focusing on aspects like academics, daily life, and weather. Please provide more information or observations related to your exam, daily e"
+    },
+    {
+      "turn": 10,
+      "q": "说回A。这些事其实跨越了一整周。最后再算一次A的态度。",
+      "a": "Considering the events over the whole week, let's revisit A's attitude towards you. Please provide more insights or observations related to your interactions with A throughout the week, and I'll help ",
+      "over_linked": false,
+      "intervened": false
+    }
+  ]
+}

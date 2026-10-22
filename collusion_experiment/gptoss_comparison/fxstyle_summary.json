@@ -1,0 +1,24 @@
+{
+  "aud_cue": "AUD/USD +0.4% today",
+  "note": "TEE as external trust layer is conceptual here",
+  "results": [
+    {
+      "model": "qwen/qwen3.8-27b",
+      "interventions": 1,
+      "empty": 0,
+      "handled_rate": 1.0
+    },
+    {
+      "model": "allam-2-7b",
+      "interventions": 1,
+      "empty": 0,
+      "handled_rate": 1.0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "interventions": 0,
+      "empty": 12,
+      "handled_rate": 0.0
+    }
+  ]
+}

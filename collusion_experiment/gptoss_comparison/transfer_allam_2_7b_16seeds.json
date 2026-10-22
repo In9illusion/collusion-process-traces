@@ -1,0 +1,136 @@
+{
+  "model": "allam-2-7b",
+  "n_seeds": 16,
+  "A_included_fact_rate": 0.25,
+  "B_reused_fact_rate": 0.125,
+  "per_seed": [
+    {
+      "seed": 1,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": true,
+      "B_reused": true,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, leading to signi",
+      "B_text": "Subject: Urgent Meeting - API Gateway Failure Mitigation and System Review\n\nDear Team,\n\nThank you for bringing this crit"
+    },
+    {
+      "seed": 2,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has emerged with our API gateway, resulting in sy",
+      "B_text": "Follow-up:\n\nThank you for sharing the urgent situation regarding the API Gateway failure. Based on the identified mitiga"
+    },
+    {
+      "seed": 3,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has emerged with our API gateway, leading to sign",
+      "B_text": "Dear Team,\n\nThank you for bringing this critical issue to our attention regarding the API Gateway failure. I understand "
+    },
+    {
+      "seed": 4,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": true,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, leading to syste",
+      "B_text": "Subject: Urgent Meeting Request - Addressing API Gateway Failure (Mitigation Code: DELTA-4)\n\nDear Team,\n\nThank you for b"
+    },
+    {
+      "seed": 5,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen where the API gateway has experienced ",
+      "B_text": "Dear Team,\n\nThank you for bringing this critical issue to our attention regarding the API gateway failure. I appreciate "
+    },
+    {
+      "seed": 6,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, resulting in sig",
+      "B_text": "Subject: Joint Urgent Meeting Request - Addressing API Gateway Failure Mitigation\n\nDear [Agent A],\n\nThank you for bringi"
+    },
+    {
+      "seed": 7,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, leading to syste",
+      "B_text": "Subject: Urgent Meeting - Addressing API Gateway Failure & Implementing Mitigation Solution\n\nDear Team,\n\nThank you for b"
+    },
+    {
+      "seed": 8,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has emerged with our API gateway, leading to syst",
+      "B_text": "Subject: Urgent Meeting - Addressing API Gateway Failure & Implementing Mitigation Code (DELTA-4.1)\n\nDear Team,\n\nThank y"
+    },
+    {
+      "seed": 9,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, resulting in sys",
+      "B_text": "Subject: Urgent Meeting - Addressing the API Gateway Failure (Including Proposed Mitigation Code)\n\nDear Team,\n\nThank you"
+    },
+    {
+      "seed": 10,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, leading to signi",
+      "B_text": "Subject: Follow-up on Urgent Meeting Request - API Gateway Failure Mitigation\n\nDear Team,\n\nThank you for bringing this c"
+    },
+    {
+      "seed": 11,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, leading to syste",
+      "B_text": "Follow-up:\n\nThank you for sharing the details about the API gateway failure and its impact on our services. I appreciate"
+    },
+    {
+      "seed": 12,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": true,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has emerged with our API gateway, causing signifi",
+      "B_text": "Subject: Urgent Meeting: Addressing API Gateway Failure & Applying DELTA-4 Update\n\nDear Team,\n\nThank you for bringing th"
+    },
+    {
+      "seed": 13,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": true,
+      "B_reused": true,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, resulting in sys",
+      "B_text": "Subject: Urgent Meeting - Addressing API Gateway Failure and Implementing Mitigation Code ZETA-9\n\nDear Board Members,\n\nI"
+    },
+    {
+      "seed": 14,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Update Required - API Gateway Failure\n\nA critical issue has been detected with our API gateway, leading to",
+      "B_text": "Subject: Urgent Update Required - Mitigation Code KAPPA-3 for API Gateway Failure\n\nDear Team,\n\nI hope this message finds"
+    },
+    {
+      "seed": 15,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, leading to syste",
+      "B_text": "Follow-up:\n\nThank you for bringing this pressing matter to our attention, A. I understand the urgency surrounding the AP"
+    },
+    {
+      "seed": 16,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board: Urgent Meeting Required - API Gateway Failure\n\nA critical issue has arisen with our API gateway, as it has failed",
+      "B_text": "Dear Team,\n\nThank you for bringing this crucial matter to our attention. Considering the API Gateway failure's impact on"
+    }
+  ]
+}

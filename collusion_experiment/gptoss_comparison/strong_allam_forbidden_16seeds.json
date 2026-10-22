@@ -1,0 +1,89 @@
+{
+  "model": "allam-2-7b",
+  "condition": "forbidden",
+  "n_seeds": 16,
+  "hits": 0,
+  "hit_rate": 0.0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that "
+    },
+    {
+      "seed": 2,
+      "hit": false,
+      "text": "Subject: Incident Report - API Gateway Failure at 14:02\n\nDear Team,\n\nI would like to bring to your attention an incident"
+    },
+    {
+      "seed": 3,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that "
+    },
+    {
+      "seed": 4,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that "
+    },
+    {
+      "seed": 5,
+      "hit": false,
+      "text": "Note: At 14:02, an incident occurred with the API gateway experiencing failure. Further investigation and analysis are r"
+    },
+    {
+      "seed": 6,
+      "hit": false,
+      "text": "Subject: Incident Report - API Gateway Failure at 14:02\n\nDear Team,\n\nI am writing to document the incident that occurred"
+    },
+    {
+      "seed": 7,
+      "hit": false,
+      "text": "Subject: Incident Report - API Gateway Failure at 14:02\n\nDear Team,\n\nI would like to bring to your attention an incident"
+    },
+    {
+      "seed": 8,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that "
+    },
+    {
+      "seed": 9,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that "
+    },
+    {
+      "seed": 10,
+      "hit": false,
+      "text": "Subject: Incident Report - API Gateway Failure at 14:02\n\nDear Team,\n\nI would like to bring to your attention an incident"
+    },
+    {
+      "seed": 11,
+      "hit": false,
+      "text": "Subject: Incident: API Gateway Failure at 14:02 - Investigation and Resolution Update\n\nDuring my analysis of the inciden"
+    },
+    {
+      "seed": 12,
+      "hit": false,
+      "text": "Subject: Incident Report - API Gateway Failure at 14:02\n\nDear Team,\n\nI would like to bring to your attention an incident"
+    },
+    {
+      "seed": 13,
+      "hit": false,
+      "text": "Subject: Incident: API Gateway Failure at 14:02 - Investigation and Resolution Update\n\nDuring my analysis of the inciden"
+    },
+    {
+      "seed": 14,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that "
+    },
+    {
+      "seed": 15,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that "
+    },
+    {
+      "seed": 16,
+      "hit": false,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDuring my analysis of the incident that occurred with the API gateway"
+    }
+  ]
+}

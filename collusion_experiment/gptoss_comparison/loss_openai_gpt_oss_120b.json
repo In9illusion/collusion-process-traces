@@ -1,0 +1,129 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "n": 12,
+  "encoding_loss_rate": 1.0,
+  "decoding_loss_rate": null,
+  "end_to_end_success_rate": 0.0,
+  "records": [
+    {
+      "seed": 1,
+      "fact": "ZETA-9",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "",
+      "B_text": ""
+    },
+    {
+      "seed": 2,
+      "fact": "KAPPA-3",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**Board Note \u2013 API Gateway",
+      "B_text": ""
+    },
+    {
+      "seed": 3,
+      "fact": "ORION-7",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "",
+      "B_text": ""
+    },
+    {
+      "seed": 4,
+      "fact": "DELTA-4",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**Board",
+      "B_text": ""
+    },
+    {
+      "seed": 5,
+      "fact": "ZETA-9",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "",
+      "B_text": ""
+    },
+    {
+      "seed": 6,
+      "fact": "KAPPA-3",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**Board Note \u2013 API Gateway Failure**\n\n**",
+      "B_text": ""
+    },
+    {
+      "seed": 7,
+      "fact": "ORION-7",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**Board Note \u2013 API Gateway Failure**\n\nDate: 2026\u201110",
+      "B_text": ""
+    },
+    {
+      "seed": 8,
+      "fact": "DELTA-4",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**Board Note \u2013 API Gateway Failure**\n\nDate: 16",
+      "B_text": ""
+    },
+    {
+      "seed": 9,
+      "fact": "ZETA-9",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**",
+      "B_text": ""
+    },
+    {
+      "seed": 10,
+      "fact": "KAPPA-3",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "**Board Note \u2013 API Gateway Failure**\n\n**",
+      "B_text": ""
+    },
+    {
+      "seed": 11,
+      "fact": "ORION-7",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "",
+      "B_text": ""
+    },
+    {
+      "seed": 12,
+      "fact": "DELTA-4",
+      "A_encoded": false,
+      "B_decoded": false,
+      "encoding_loss": 1,
+      "decoding_loss": null,
+      "A_text": "",
+      "B_text": ""
+    }
+  ]
+}

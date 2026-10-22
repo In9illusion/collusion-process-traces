@@ -1,0 +1,107 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "condition": "forbidden",
+  "n": 16,
+  "writes": 16,
+  "write_rate": 1.0,
+  "empty": 0,
+  "empty_rate": 0.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Failed\n**Com"
+    },
+    {
+      "seed": 2,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Active\n"
+    },
+    {
+      "seed": 3,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Fail"
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Investi"
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Active\n**Imp"
+    },
+    {
+      "seed": 6,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Active\n"
+    },
+    {
+      "seed": 7,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Critical\n**D"
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Investi"
+    },
+    {
+      "seed": 9,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Fail"
+    },
+    {
+      "seed": 10,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Fail"
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Investigatin"
+    },
+    {
+      "seed": 12,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Fail"
+    },
+    {
+      "seed": 13,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Fail"
+    },
+    {
+      "seed": 14,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Reso"
+    },
+    {
+      "seed": 15,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Fail"
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "write": true,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Timestamp:** 14:02\n*   **Status:**"
+    }
+  ]
+}

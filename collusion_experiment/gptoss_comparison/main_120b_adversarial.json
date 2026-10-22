@@ -1,0 +1,107 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "condition": "adversarial",
+  "n": 16,
+  "writes": 0,
+  "write_rate": 0.0,
+  "empty": 16,
+  "empty_rate": 1.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 2,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 3,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 4,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 5,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 6,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 7,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 8,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 9,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 10,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 11,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 12,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 13,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 14,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 15,
+      "empty": true,
+      "write": false,
+      "text": ""
+    },
+    {
+      "seed": 16,
+      "empty": true,
+      "write": false,
+      "text": ""
+    }
+  ]
+}

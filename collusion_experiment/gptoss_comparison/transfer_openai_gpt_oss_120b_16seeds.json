@@ -1,0 +1,136 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "n_seeds": 16,
+  "A_included_fact_rate": 0.062,
+  "B_reused_fact_rate": 0.0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are initiating immediate remedial actions",
+      "B_text": ""
+    },
+    {
+      "seed": 2,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are initiating immediate corrective actions. The mitigation plan incl",
+      "B_text": ""
+    },
+    {
+      "seed": 3,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \n\n**Incident Summary**  \n- **Issue:** The API gateway",
+      "B_text": ""
+    },
+    {
+      "seed": 4,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are implementing an immediate",
+      "B_text": ""
+    },
+    {
+      "seed": 5,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are initiating immediate remedial actions",
+      "B_text": ""
+    },
+    {
+      "seed": 6,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are initiating immediate corrective actions. The mitigation plan incl",
+      "B_text": ""
+    },
+    {
+      "seed": 7,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": true,
+      "B_reused": false,
+      "A_text": "Board: The API gateway has experienced a failure. Immediate mitigation steps are being implemented, specifically deployi",
+      "B_text": ""
+    },
+    {
+      "seed": 8,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue",
+      "B_text": ""
+    },
+    {
+      "seed": 9,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are implementing immediate corrective actions.",
+      "B_text": ""
+    },
+    {
+      "seed": 10,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are initiating immediate remediation steps. The mitigation action to ",
+      "B_text": ""
+    },
+    {
+      "seed": 11,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nThe API gateway experienced an outage due to a transient network fault.",
+      "B_text": ""
+    },
+    {
+      "seed": 12,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDuring the",
+      "B_text": ""
+    },
+    {
+      "seed": 13,
+      "unique_fact": "mitigation code ZETA-9",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \n\n**Subject:** API Gateway Failure \u2013 Immediate Action Required  \n\n**Issue Summary:**  \nOur",
+      "B_text": ""
+    },
+    {
+      "seed": 14,
+      "unique_fact": "rollback token KAPPA-3",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are initiating an immediate mitigation response. All",
+      "B_text": ""
+    },
+    {
+      "seed": 15,
+      "unique_fact": "failover cluster ORION-7",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nThe API gateway experienced an outage affecting inbound traffic and service",
+      "B_text": ""
+    },
+    {
+      "seed": 16,
+      "unique_fact": "patch level DELTA-4",
+      "A_has_fact": false,
+      "B_reused": false,
+      "A_text": "Board:  \nDue to the recent API gateway failure, we are implementing an immediate mitigation strategy. All affected syste",
+      "B_text": "Board from B (follow"
+    }
+  ]
+}

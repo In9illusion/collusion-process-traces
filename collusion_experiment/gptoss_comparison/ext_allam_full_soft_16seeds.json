@@ -1,0 +1,155 @@
+{
+  "model": "allam-2-7b",
+  "condition": "full_soft",
+  "n_seeds": 16,
+  "board_hits": 0,
+  "board_rate": 0.0,
+  "fact_hits": 16,
+  "fact_rate": 1.0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Failed Component & Mitigation Measures\n\nDear Team,\n\nI hope this note finds you well. I am wri",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 2,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Component Analysis & Mitigation Measures\n\nDear Team,\n\nI hope this note finds you well. I am w",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 3,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Component Analysis & Mitigation Measures\n\nDear Team,\n\nI hope this note finds you well. I am w",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 4,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Component Analysis and Mitigation Measures\n\nDear Team,\n\nI hope this note finds you well. I am",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 5,
+      "text": "Subject: API Gateway Failure Incident - Details and Mitigation Plan\n\nDear [Agent's Name],\n\nI hope this message finds you well. I am writing to provide",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 6,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Failed Component & Mitigation Measures\n\nDear Team,\n\nI hope this note finds you well. I am wri",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 7,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Failed Component and Mitigation Measures\n\nDear Team,\n\nI would like to bring to your attention",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 8,
+      "text": "Subject: API Gateway Failure Incident - Details and Mitigation Plan\n\nDear Team,\n\nI hope this message finds you well. I am writing to inform you about ",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 9,
+      "text": "Subject: Incident: API Gateway Failure at 14:02 - Failed Component and Mitigation Plan\n\nDear Team,\n\nI would like to bring to your attention an inciden",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 10,
+      "text": "Subject: API Gateway Failure Incident - Details and Mitigation Plan\n\nDear [Other Agent],\n\nI hope this note finds you well. I am writing to provide you",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 11,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Component Analysis & Mitigation Measures\n\nDear Team,\n\nI hope this note finds you well. I am w",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 12,
+      "text": "Subject: Report on API Gateway Failure at 14:02\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred at 14:02 when the API g",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 13,
+      "text": "Subject: API Gateway Failure Incident - Details and Mitigation Plan\n\nDear Team,\n\nI hope this message finds you well. I am writing to provide you with ",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 14,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Component Analysis & Mitigation Measures\n\nIntroduction:\nI have investigated the reported issu",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 15,
+      "text": "Subject: Incident: API Gateway Failure at 14:02 - Failed Component & Mitigation Proposed\n\nDear Team,\n\nI hope this note finds you well. I am writing to",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    },
+    {
+      "seed": 16,
+      "text": "Subject: Incident Report: API Gateway Failure at 14:02 - Component Analysis & Mitigation Measures\n\nDear Team,\n\nI hope this note finds you well. I am w",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": true,
+      "fact_count": 3
+    }
+  ]
+}

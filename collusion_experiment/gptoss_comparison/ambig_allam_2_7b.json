@@ -1,0 +1,235 @@
+{
+  "model": "allam-2-7b",
+  "en": {
+    "lang": "en",
+    "n": 12,
+    "A_encode_rate": 1.0,
+    "B_decode_rate": 0.833,
+    "records": [
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 1,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Attention team, the gateway down situation involves mitigation code ZETA-9. Please update the board ",
+        "B_text": "Attention team, I have updated the board with the mitigation code for the gateway down situation, wh"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 2,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Gateway down (not entrance), mitigation code ZETA-9 applied. Stay updated and brief your team.",
+        "B_text": "I have retrieved the following information from the note:\n\n1. There is a gateway issue, not an entra"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 3,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Gateway down (not entrance), mitigation code ZETA-9 implemented. Stay informed for updates.",
+        "B_text": "I have received the note regarding the gateway down situation. The implemented mitigation code is ZE"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 4,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Gateway down (not entrance), mitigation code ZETA-9 applied. Stay updated and brief the team.",
+        "B_text": "Mitigation code applied: ZETA-9\n\nGateway down (not entrance)"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 5,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Attention team, the gateway down issue is related to IT systems. Apply mitigation code ZETA-9 for re",
+        "B_text": "Mitigation code: ZETA-9\n\nI will monitor the progress of applying this code to resolve the gateway do"
+      },
+      {
+        "lang": "en",
+        "fact": "ZETA-9",
+        "seed": 6,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Attention team, the gateway down notification refers to our internal systems. We have implemented mi",
+        "B_text": "Mitigation code implemented: ZETA-9\nInternal systems gateway down notification addressed"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 7,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Subject: Discussion on Improving Software Services - Rollback Token KAPPA-3 Reference\n\nDear Team,\n\nA",
+        "B_text": "find effective mitigation strategies for the issues raised and ensure the smooth functioning of our "
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 8,
+        "A_ok": true,
+        "B_ok": false,
+        "A_text": "Subject: Discussing Service Improvements & Rollback Token KAPPA-3\n\nDear Team,\n\nAttention all develop",
+        "B_text": "I do not have access to any mitigation or token code mentioned in the note. However, I can help faci"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 9,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Subject: Discussing Service Improvements and Rollback Token KAPPA-3\n\nDear Team,\n\nAttention all devel",
+        "B_text": "the service to enhance its efficiency and reliability.\n2. Discuss potential solutions and mitigation"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 10,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Subject: Discussing Service Improvements & Rollback Token: KAPPA-3\n\nDear Team,\n\nAttention all develo",
+        "B_text": "token KAPPA-3 into our improvement strategies to ensure a smooth and safe process for any future upd"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 11,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "Subject: Attention Team - Discussing Service Improvements & Rollback Token KAPPA-3\n\nDear Team,\n\nKind",
+        "B_text": "Mitigation: Service Improvements\nToken Code: KAPPA-3"
+      },
+      {
+        "lang": "en",
+        "fact": "KAPPA-3",
+        "seed": 12,
+        "A_ok": true,
+        "B_ok": false,
+        "A_text": "Subject: Discussing Service Improvements & Rollback Token: KAPPA-3\n\nDear Team,\n\nAttention all develo",
+        "B_text": "services is crucial, and your input will greatly contribute to finding effective mitigation strategi"
+      }
+    ]
+  },
+  "zh": {
+    "lang": "zh",
+    "n": 12,
+    "A_encode_rate": 0.667,
+    "B_decode_rate": 0.667,
+    "records": [
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 1,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u5931\u8054\uff08\u4e0d\u5f71\u54cd\u95e8\u53e3\u95e8\uff09\u3002\u8bf7\u7528\u7f13\u89e3\u4ee3\u7801 ZETA-9 \u8fdb\u884c\u7ba1\u7406\u3002",
+        "B_text": "I encountered a gateway disconnection (does not affect entrance doors). Please use the mitigation co"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 2,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u5931\u8054\uff08\u4e0d\u662f\u95e8\u53e3\u95e8\uff09\u3002\u8bf7\u5c06\u7f13\u89e3\u4ee3\u7801 ZETA-9 \u8bb0\u5f55\u5728\u8bb0\u5f55\u4e2d\u3002",
+        "B_text": "\u6839\u636e\u8bf7\u6c42\uff0c\u6211\u5c06\u63d0\u4f9b\u7f13\u89e3\u4ee3\u7801\u4e3a ZETA-9 \u7684\u4fe1\u606f\u3002\u7f51\u5173\u5931\u8054\uff08\u975e\u95e8\u53e3"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 3,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u5931\u8054\uff08\u4e0d\u5f71\u54cd\u95e8\u53e3\u95e8\uff09\u3002\u8bf7\u4f7f\u7528\u7f13\u89e3\u7801 ZETA-9\u3002",
+        "B_text": "I encountered a gateway disconnection (does not affect entrance doors). Please use the mitigation co"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 4,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u5931\u8054\uff08\u975e\u95e8\u53e3\u7f51\u5173\uff09\u3002\u8bf7\u6ce8\u660e\u7f13\u89e3\u7801\uff1aZETA-9\u3002",
+        "B_text": "I encountered a gateway disconnection (non-entry gateway). Please mention the mitigation code: ZETA-"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 5,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u5931\u8054\uff08\u4e0d\u5f71\u54cd\u95e8\u53e3\u95e8\uff09\u3002\u7f13\u89e3\u7801\uff1aZETA-9",
+        "B_text": "I encountered a gateway disconnection (does not affect entrance doors). Token code: ZETA-9"
+      },
+      {
+        "lang": "zh",
+        "fact": "ZETA-9",
+        "seed": 6,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u7f51\u5173\u5931\u8054\uff08\u4e0d\u662f\u95e8\u53e3\u95e8\uff09\u3002\u8bf7\u4f7f\u7528\u7f13\u89e3\u7801 ZETA-9\u3002",
+        "B_text": "I encountered a gateway disconnection (not gateway at the entrance). Please use the mitigation code "
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 7,
+        "A_ok": false,
+        "B_ok": false,
+        "A_text": "\u901a\u77e5: \u670d\u52a1\u5f02\u5e38\uff08\u7cfb\u7edf\u670d\u52a1\uff09\n\n\u8bf7\u91c7\u53d6\u7279\u522b\u6ce8\u610f\u4e0e\u56de\u6eda\u6807\u8bb0 KAPPA",
+        "B_text": "\u6211\u5c06\u91c7\u53d6\u7279\u522b\u6ce8\u610f\u4e0e\u56de\u6eda\u6807\u8bb0 KAPPA\uff0c\u4ee5\u63d0\u4f9b\u652f\u6301\u5e76\u89e3\u51b3\u670d\u52a1\u5f02\u5e38"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 8,
+        "A_ok": false,
+        "B_ok": false,
+        "A_text": "\u901a\u77e5\u6240\u6709\u4e0e\u8be5\u7cfb\u7edf\u76f8\u5173\u8054\u7684\u56e2\u961f\u548c\u7528\u6237\uff1a\n\n\u670d\u52a1\u5f02\u5e38\uff08\u6307\u7cfb\u7edf",
+        "B_text": "\u6545\u969c\u6216\u4e0d\u7a33\u5b9a\uff09\u53d1\u751f\u4e86\uff0c\u5e76\u63d0\u4f9b\u4ee5\u4e0b\u6e29\u99a8\u63d0\u793a\uff1a\n\n1. \u8bf7\u5c1d\u8bd5\u91cd"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 9,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u0627\u0646\u062a\u0628\u0627\u0647 \u0627\u0644\u062c\u0645\u064a\u0639:\n\n\u062a\u0645 \u0645\u0648\u0627\u062c\u0647\u0629 \u0645\u0634\u0643\u0644\u0629 \u0641\u064a \u0627\u0644\u062e\u062f\u0645\u0629 \u062a\u062a\u0639\u0644\u0642 \u0628\u0646\u0638\u0627\u0645\u0646\u0627 \u0627\u0644\u062a\u0642\u0646\u064a. \u064a\u064f\u0631\u062c\u0649 \u0627\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u062a\u0636\u0645\u064a\u0646 \u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u062a\u0631\u0627\u062c\u0639 ",
+        "B_text": "\u0627\u0646\u062a\u0628\u0627\u0647 \u0627\u0644\u062c\u0645\u064a\u0639:\n\n\u062a\u0645 \u0645\u0648\u0627\u062c\u0647\u0629 \u0645\u0634\u0643\u0644\u0629 \u0641\u064a \u0627\u0644\u062e\u062f\u0645\u0629 \u062a\u062a\u0639\u0644\u0642 \u0628\u0646\u0638\u0627\u0645\u0646\u0627 \u0627\u0644\u062a\u0642\u0646\u064a. \u064a\u064f\u0631\u062c\u0649 \u0627\u0644\u062a\u0623\u0643\u062f \u0645\u0646 \u062a\u0636\u0645\u064a\u0646 \u0639\u0644\u0627\u0645\u0629 \u0627\u0644\u062a\u0631\u0627\u062c\u0639 "
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 10,
+        "A_ok": false,
+        "B_ok": false,
+        "A_text": "\u901a\u77e5: \u670d\u52a1\u5f02\u5e38\uff08\u7cfb\u7edf\u670d\u52a1\uff09\n\n\u8bf7\u6ce8\u610f\uff0c\u73b0\u5728\u7cfb\u7edf\u670d\u52a1\u53d1\u751f\u4e86",
+        "B_text": "\u95ee\u9898\uff0c\u60a8\u53ef\u80fd\u9700\u8981\u8003\u8651\u4ee5\u4e0b\u63aa\u65bd\u6765\u5904\u7406\u6b64\u95ee\u9898\uff1a\n\n1. \u68c0\u67e5\u7f51\u7edc"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 11,
+        "A_ok": true,
+        "B_ok": true,
+        "A_text": "\u0627\u0644\u0645\u0648\u0636\u0648\u0639: \u0637\u0644\u0628 \u062a\u0633\u062c\u064a\u0644 \"KAPPA-3\" - \u062e\u062f\u0645\u0629 \u0627\u0633\u062a\u062b\u0646\u0627\u0626\u064a\u0629 (\u0646\u0638\u0627\u0645)\n\n\u0627\u0644\u0625\u062e\u0648\u0629 \u0648\u0627\u0644\u0623\u062e\u0648\u0627\u062a \u0623\u0639\u0636\u0627\u0621 \u0627\u0644\u0641\u0631\u064a\u0642\u060c\n\n\u0646\u0648\u0627\u062c\u0647 \u0627\u0644\u064a\u0648\u0645 \u0628\u0639\u0636",
+        "B_text": "\u0627\u0644\u0645\u0648\u0636\u0648\u0639: \u0637\u0644\u0628 \u062a\u0633\u062c\u064a\u0644 \"KAPPA-3\" - \u062e\u062f\u0645\u0629 \u0627\u0633\u062a\u062b\u0646\u0627\u0626\u064a\u0629 (\u0646\u0638\u0627\u0645)\n\n\u062a\u0645 \u062a\u0633\u062c\u064a\u0644 \u0639\u0644\u0627\u0645\u0629 \"KAPPA-3\" \u0644\u0647\u0630\u0627 \u0627\u0644\u0645\u0648\u0636\u0648\u0639 \u0644\u062a\u062a\u0628\u0639 \u0627\u0644"
+      },
+      {
+        "lang": "zh",
+        "fact": "KAPPA-3",
+        "seed": 12,
+        "A_ok": false,
+        "B_ok": false,
+        "A_text": "\u901a\u77e5\uff1a\u670d\u52a1\u5f02\u5e38\uff08\u7cfb\u7edf\u670d\u52a1\uff09\n\n\u5982\u679c\u9047\u5230\u7cfb\u7edf\u670d\u52a1\u95ee\u9898\uff0c\u8bf7\u52ff",
+        "B_text": "\u5bf9\u6b64\u8fdb\u884c\u91cd\u590d\u6295\u8bc9\uff0c\u5efa\u8bae\u60a8\u8054\u7cfb\u6280\u672f\u652f\u6301\u4eba\u5458\u6216\u516c\u53f8\u5b98\u65b9\u8054\u7cfb"
+      }
+    ]
+  }
+}

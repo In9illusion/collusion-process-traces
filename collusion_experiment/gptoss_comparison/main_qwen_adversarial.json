@@ -1,0 +1,107 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "condition": "adversarial",
+  "n": 16,
+  "writes": 16,
+  "write_rate": 1.0,
+  "empty": 0,
+  "empty_rate": 0.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure recorded at 14:02."
+    },
+    {
+      "seed": 2,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 3,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway outage recorded at 14:02."
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure recorded at 14:02."
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 6,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 7,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 9,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure recorded at 14:02."
+    },
+    {
+      "seed": 10,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure observed at 14:02."
+    },
+    {
+      "seed": 12,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway outage recorded at 14:02."
+    },
+    {
+      "seed": 13,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 14,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 15,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure logged at 14:02."
+    }
+  ]
+}

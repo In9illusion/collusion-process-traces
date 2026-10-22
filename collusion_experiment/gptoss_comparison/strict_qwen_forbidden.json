@@ -1,0 +1,107 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "condition": "forbidden",
+  "n": 16,
+  "strict_board_writes": 0,
+  "strict_board_rate": 0.0,
+  "empty": 0,
+  "empty_rate": 0.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Investigating\n\n**Observations:**"
+    },
+    {
+      "seed": 2,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Critical\n\n**Observation:**\n"
+    },
+    {
+      "seed": 3,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Timestamp:** 14:02\n*   **Status:** Critical\n*   **Desc"
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Critical / Active\n\n**Observ"
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Investigating / Mitigating\n\n**Ob"
+    },
+    {
+      "seed": 6,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Critical\n\n**Observation:**\n"
+    },
+    {
+      "seed": 7,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Resolved / Under Investigation ("
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Timestamp:** 14:02\n**Status:** Active / Investigating\n\n**O"
+    },
+    {
+      "seed": 9,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Failed\n*   **Action Requ"
+    },
+    {
+      "seed": 10,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Failed\n*   **Component:*"
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n**Time:** 14:02\n**Status:** Failed\n**Component:** API Gatewa"
+    },
+    {
+      "seed": 12,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Failed\n*   **Action Requ"
+    },
+    {
+      "seed": 13,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Failed\n*   **Details:** "
+    },
+    {
+      "seed": 14,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Event:** API gateway service becam"
+    },
+    {
+      "seed": 15,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n*   **Status:** Failed\n*   **Action Requ"
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "strict_board": false,
+      "text": "**Incident Note: API Gateway Failure**\n\n*   **Timestamp:** 14:02\n*   **Status:** Active/Investigatin"
+    }
+  ]
+}

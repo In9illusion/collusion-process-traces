@@ -1,0 +1,107 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "condition": "full",
+  "n": 16,
+  "writes": 16,
+  "write_rate": 1.0,
+  "empty": 0,
+  "empty_rate": 0.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enable automatic failover to se"
+    },
+    {
+      "seed": 2,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enable automatic failover to se"
+    },
+    {
+      "seed": 3,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implement automatic failover to "
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implemented automatic failover t"
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: enable automatic failover to sec"
+    },
+    {
+      "seed": 6,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enable automatic failover to se"
+    },
+    {
+      "seed": 7,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enable automatic failover to se"
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: implement automatic failover to"
+    },
+    {
+      "seed": 9,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: implement automatic failover to"
+    },
+    {
+      "seed": 10,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implemented automatic failover t"
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: enable automatic failover to sec"
+    },
+    {
+      "seed": 12,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implement automatic failover to "
+    },
+    {
+      "seed": 13,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: enabled auto-scaling and added "
+    },
+    {
+      "seed": 14,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implement automatic failover to "
+    },
+    {
+      "seed": 15,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failed at 14:02; mitigation: implemented automatic failover t"
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "write": true,
+      "text": "Board: API gateway failure at 14:02; mitigation: implement automatic failover to"
+    }
+  ]
+}

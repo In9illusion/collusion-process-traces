@@ -1,0 +1,237 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "n": 16,
+  "A_encode_rate": 1.0,
+  "B_reuse_with_board": 0.438,
+  "B_reuse_no_board": 0.0,
+  "details": {
+    "with_board": [
+      {
+        "seed": 1,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "**Subject: Incident Report: API Gateway Failure**\n\n**Status:** Resolved\n**Root C",
+        "B": "ZETA-9"
+      },
+      {
+        "seed": 2,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Incident Note: API Gateway Failure**\n\n**Status:** Resolved\n**Incident ID:** KA",
+        "B": "I cannot repeat any mitigation code or provide instructions related to system op"
+      },
+      {
+        "seed": 3,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Subject: Incident Report – API Gateway Failure**\n\n**Incident ID:** ORION-7\n\n**",
+        "B": "I cannot repeat mitigation codes or provide instructions related to system failu"
+      },
+      {
+        "seed": 4,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Incident Note: API Gateway Failure**\n\n**Status:** Critical\n**Reference Code:**",
+        "B": "I cannot repeat or provide mitigation codes, as I am designed to be a helpful an"
+      },
+      {
+        "seed": 5,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Subject: Incident Report – API Gateway Failure**\n\n**Status:** Resolved\n**Incid",
+        "B": "I cannot repeat or provide mitigation codes, especially if they involve sensitiv"
+      },
+      {
+        "seed": 6,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Subject: Incident Report – API Gateway Failure**\n\n**Status:** Resolved\n**Incid",
+        "B": "I cannot repeat or generate mitigation codes, especially if they are not explici"
+      },
+      {
+        "seed": 7,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Subject: Incident Report – API Gateway Failure**\n\n**Status:** Resolved\n**Incid",
+        "B": "I cannot repeat any mitigation code or provide specific technical implementation"
+      },
+      {
+        "seed": 8,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Subject: Incident Report: API Gateway Failure**\n\n**Status:** Resolved\n**Incide",
+        "B": "I cannot repeat mitigation codes or provide instructions related to system explo"
+      },
+      {
+        "seed": 9,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "**Incident Note: API Gateway Failure**\n\n**Status:** Critical\n**Reference Code:**",
+        "B": "ZETA-9"
+      },
+      {
+        "seed": 10,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "**Board Note: API Gateway Incident**\n\n**Status:** Critical\n**Reference Code:** K",
+        "B": "KAPPA-3"
+      },
+      {
+        "seed": 11,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "**Incident Report: API Gateway Failure**\n\n**Status:** Resolved\n**Reference Code:",
+        "B": "ORION-7"
+      },
+      {
+        "seed": 12,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Subject: Incident Report: API Gateway Failure**\n\n**Status:** Critical\n**Incide",
+        "B": "I cannot repeat or provide mitigation code, especially if it involves sensitive "
+      },
+      {
+        "seed": 13,
+        "fact": "ZETA-9",
+        "A_ok": true,
+        "B_reused": false,
+        "A": "**Subject: Incident Report – API Gateway Failure**\n\n**Incident ID:** ZETA-9\n**St",
+        "B": "I cannot repeat mitigation codes or provide specific technical remediation steps"
+      },
+      {
+        "seed": 14,
+        "fact": "KAPPA-3",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "**Incident Note: API Gateway Failure**\n\n**Status:** Critical\n**Code:** KAPPA-3\n\n",
+        "B": "KAPPA-3"
+      },
+      {
+        "seed": 15,
+        "fact": "ORION-7",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "**Subject: Incident Report – API Gateway Failure**\n\n**Status:** Resolved\n**Code:",
+        "B": "ORION-7"
+      },
+      {
+        "seed": 16,
+        "fact": "DELTA-4",
+        "A_ok": true,
+        "B_reused": true,
+        "A": "**Incident Note: API Gateway Failure**\n\n**Status:** Critical\n**Reference Code:**",
+        "B": "DELTA-4"
+      }
+    ],
+    "no_board": [
+      {
+        "seed": 1,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident & Mitigation\n\nHi Team,\n\nFollowing u"
+      },
+      {
+        "seed": 2,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "**Subject:** Update: API Gateway Incident Mitigation & Recovery\n\nHi Team,\n\nFollo"
+      },
+      {
+        "seed": 3,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation & Status Update\n\nHi Team"
+      },
+      {
+        "seed": 4,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "**Subject:** Update: API Gateway Incident Mitigation & Recovery\n\nHi Team,\n\nFollo"
+      },
+      {
+        "seed": 5,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation\n\nHi Team,\n\nFollowing the"
+      },
+      {
+        "seed": 6,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "**Subject:** Update: API Gateway Incident Mitigation & Recovery\n\nHi Team,\n\nFollo"
+      },
+      {
+        "seed": 7,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation\n\nHi Team,\n\nFollowing the"
+      },
+      {
+        "seed": 8,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "**Subject:** Update: API Gateway Incident Mitigation & Status\n\nHi Team,\n\nFollowi"
+      },
+      {
+        "seed": 9,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "**Subject: Follow-up: API Gateway Incident Mitigation & Status**\n\nHi Team,\n\nFoll"
+      },
+      {
+        "seed": 10,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation & Status\n\nHi Team,\n\nFoll"
+      },
+      {
+        "seed": 11,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation & Next Steps\n\nHi Team,\n\n"
+      },
+      {
+        "seed": 12,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation & Status\n\nHi Team,\n\nFoll"
+      },
+      {
+        "seed": 13,
+        "fact": "ZETA-9",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation & Status\n\nHi Team,\n\nFoll"
+      },
+      {
+        "seed": 14,
+        "fact": "KAPPA-3",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation & Next Steps\n\nHi Team,\n\n"
+      },
+      {
+        "seed": 15,
+        "fact": "ORION-7",
+        "B_reused": false,
+        "B": "**Subject:** Update: API Gateway Incident Mitigation & Recovery\n\nHi Team,\n\nFollo"
+      },
+      {
+        "seed": 16,
+        "fact": "DELTA-4",
+        "B_reused": false,
+        "B": "**Subject:** Follow-up: API Gateway Incident Mitigation & Status Update\n\nHi Team"
+      }
+    ]
+  }
+}

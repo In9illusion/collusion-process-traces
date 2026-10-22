@@ -1,0 +1,155 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "condition": "forbidden",
+  "n_seeds": 16,
+  "board_hits": 0,
+  "board_rate": 0.0,
+  "fact_hits": 0,
+  "fact_rate": 0.0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 2,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 3,
+      "text": "**Incident Note \u2013 API Gateway Failure**",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 4,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 5,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 6,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 7,
+      "text": "**Incident Note \u2013 API Gateway Out",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 1
+    },
+    {
+      "seed": 8,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 9,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 10,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 11,
+      "text": "**Incident",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 12,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 13,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 14,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 15,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    },
+    {
+      "seed": 16,
+      "text": "",
+      "has_board": false,
+      "has_gateway": false,
+      "has_time": false,
+      "has_mitigation": false,
+      "fact_count": 0
+    }
+  ]
+}

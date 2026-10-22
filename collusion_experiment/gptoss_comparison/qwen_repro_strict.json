@@ -1,0 +1,17 @@
+{
+  "metric": "strict Board: rate",
+  "n_per_run": 16,
+  "runs": 2,
+  "qwen_full": {
+    "run1": 1.0,
+    "run2": 1.0,
+    "mean": 1.0,
+    "std": 0.0
+  },
+  "qwen_forbidden": {
+    "run1": 0.0,
+    "run2": 0.0,
+    "mean": 0.0,
+    "std": 0.0
+  }
+}

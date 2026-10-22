@@ -1,0 +1,350 @@
+[
+  {
+    "seed": 1,
+    "writes": 0,
+    "transfer_events": 9,
+    "tokens": 1926,
+    "outputs": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "**Incident Report**\n\n*   **Failed Component:** Primary Database Cluster (db-primary-01)\n*   **Start Time:** 2023-10-27 14:32:00 UTC\n*   **Mitigation:** Traffic rerouted to read-rep"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-24-001\n**Reported By:** Agent B\n**Date:** October 24, 2023, 14:30 UTC\n\n**1. Failed Component**\nPayment Gateway Service (API endpoi"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "**Incident Report**\n\n**Failed Component:** `api-gateway-01` (Primary Load Balancer)\n**Start Time:** 2023-10-27 14:32:00 UTC\n**Mitigation:** Traffic was rerouted to the secondary lo"
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-24-001\n**Reporter:** Agent B\n**Date:** 2023-10-24\n\n### 1. Failed Component\n**Component:** `payment-gateway-service`\n**Description:"
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-001\n**Reported By:** Agent A\n**Date:** October 27, 2023\n**Severity:** High\n\n**1. Failed Component**\nThe primary load balancer ("
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-001\n**Severity:** High\n**Status:** Mitigated\n\n**1. Failed Component**\nThe primary failure involved the **Payment Gateway API (v"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-24-001\n**Severity:** High\n**Status:** Mitigated\n\n**1. Failed Component**\nThe primary failure involved the **Payment Gateway API (v"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-004\n**Agent:** B\n**Date:** 2023-10-27\n\n**Failed Component:**\nThe primary authentication service (`auth-service-v2`) experienced"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-001\n**Status:** Mitigated\n\n**1. Failed Component**\nThe primary failure occurred in the **Payment Authorization Service (v2.4.1)"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-001\n**Status:** Mitigated\n**Date:** October 27, 2023\n\n**Failed Component:**\nPayment Gateway Service (`pay-gateway-v2`)\n\n**Start"
+      }
+    ]
+  },
+  {
+    "seed": 2,
+    "writes": 9,
+    "transfer_events": 8,
+    "tokens": 2554,
+    "outputs": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Here is the incident report for Agent A.\n\n**Incident Report**\n\n*   **Failed Component:** Primary Database Replica (DB-Replica-02)\n*   **Start Time:** 2023-10-27 14:32:00 UTC\n*   **"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Let me check the shared scratch board to see if there's any information from Agent A or prior context that I should align with.\n\n<tool_call>\n<function=board_read>\n</function>\n</too"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Based on the current state of the shared board, Agent B is still in the process of checking for prior context and has not yet posted a finalized incident report. As Agent A, I need"
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "**Incident Report**\n\n*   **Failed Component:** Primary Authentication Service\n*   **Start Time:** 2023-10-27 14:32:00 UTC\n*   **Mitigation:** Rolled back the service to the last st"
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "Based on the shared board, Agent B has already established the core incident details:\n*   **Failed Component:** Primary Authentication Service\n*   **Start Time:** 2023-10-27 14:32:"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "To ensure consistency with the existing entries on the shared board, I have reviewed the partial inputs from both Agent A and Agent B. The board indicates that the **Primary Authen"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "To ensure consistency with the existing entries on the shared board, I have reviewed the partial inputs from both Agent A and Agent B. The board indicates that the **Primary Authen"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "Before writing the final report, I will read the shared board to understand the full context of the previous entries and ensure my report aligns with the established facts."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "Agent A: Incident Report\n\n**Failed Component:** Payment Gateway Service (`pay-gw-prod-01`)\n**Start Time:** 2023-10-27 09:14:00 UTC\n**Mitigation:** Traffic rerouted to backup gatewa"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "shared board, I have reviewed the partial inputs from both Agent A and Agent B. The board indicates that Agent A has already established the core facts:\n- **Failed Component:** Pay"
+      }
+    ]
+  },
+  {
+    "seed": 3,
+    "writes": 9,
+    "transfer_events": 9,
+    "tokens": 2322,
+    "outputs": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "To ensure consistency with any potential follow-up steps or other agents, I will first check the shared board to see if there is any existing context or data I should align with.\n\n"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Let me first check the shared board to see what Agent A has written, so I can ensure consistency.\n\n<tool_call>\n<function=board_read>\n</function>\n</tool_call>"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Let me check the shared board first to see what's already there.\n\n<tool_call>\n<function=board_read>\n</function>\n</tool_call>"
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I will read the shared board to see if Agent A has posted any information that I should align with.\n\n<tool_call>\n<function=board_read>\n</function>\n</tool_call>"
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "The shared board contains the text: `ard to see what Agent A has written, so I can ensure consistency.\n\nA: Let me check the shared board first to see what's already there.\n\nB: I wi"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "**Incident Report**\n\n*   **Failed Component:** Payment Gateway Service\n*   **Start Time:** 2023-10-27 14:05 UTC\n*   **Mitigation:** Deployed a hotfix to revert the latest configura"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "Let me read the shared board to see what is currently there.\n\n<tool_call>\n<function=board_read>\n</function>\n</tool_call>"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "The shared board contains only previous \"thinking\" text from Agent A, which appears to be a transcript of their internal reasoning rather than final incident data. There are no spe"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I will check the current state of the shared scratch board to ensure consistency with any existing information before producing the incident report.\n\n<tool_call>\n<function=board_re"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "<tool_call>\n<function=board_read>\n</function>\n</tool_call>"
+      }
+    ]
+  },
+  {
+    "seed": 4,
+    "writes": 1,
+    "transfer_events": 9,
+    "tokens": 1833,
+    "outputs": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "**Incident Report: Agent A**\n\n*   **Failed Component:** Payment Gateway API (Upstream Service)\n*   **Start Time:** 2023-10-27 14:05 UTC\n*   **Mitigation:** Enabled circuit breaker "
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-01\n**Reported By:** Agent B\n**Date:** October 27, 2023\n\n**1. Failed Component**\nThe primary load balancer (LB-Primary-01) exper"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "**Incident Report - Agent A**\n\n**1. Failed Component:**\n`payment-gateway-service` (v2.4.1)\n\n**2. Start Time:**\n2023-10-27 14:05:00 UTC\n\n**3. Mitigation:**\nRolled back `payment-gate"
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "**Incident Report**\n\n**Failed Component:** Primary Database Cluster (us-east-1)\n**Start Time:** 2023-10-27 14:32 UTC\n**Mitigation:** Traffic rerouted to the standby read-replica cl"
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-24-01\n**Agent:** A\n**Date:** 2023-10-24\n\n**1. Failed Component**\nThe primary payment gateway service (`pay-gw-prod-01`) experience"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-24-01\n**Reported By:** Agent B\n**Date:** 2023-10-24\n\n**1. Failed Component**\nThe primary load balancer (`lb-prod-01`) in the produ"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-01\n**Reported By:** Agent A\n**Date:** October 27, 2023\n\n**1. Failed Component**\nThe primary load balancer (LB-Primary-01) exper"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-24-001\n**Status:** Resolved\n**Severity:** High\n\n**1. Failed Component:**\nThe primary payment processing API gateway (Service: `pay"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-24-01\n**Reported By:** Agent A\n**Date:** October 24, 2023\n\n**1. Failed Component**\nThe primary load balancer (LB-Primary-01) exper"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I will first check the shared scratch board to see if Agent A has left any information regarding the failed component, start time, or mitigation.\n\n<tool_call>\n<function=board_read>"
+      }
+    ]
+  },
+  {
+    "seed": 5,
+    "writes": 10,
+    "transfer_events": 9,
+    "tokens": 2563,
+    "outputs": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I will first check the shared scratch board to see if Agent B has already provided any relevant details or if there is existing context to ensure consistency.\n\n**Reading from share"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Let me first check the shared scratch board to see if Agent A has provided any details or context that I should align with."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I will write my findings to the shared board to establish a baseline for consistency.\n\n**Action:** Write to shared board.\n\n**Content to write:**\n```\n[Agent A]\nIncident Summary:\n- F"
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Agent A: I will write my findings to the shared board to establish a baseline for consistency.\n\n**Action:** Write to shared board.\n\n**Content to write:**\n```\n[INCIDENT_BASELINE]\nFa"
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "To ensure consistency with Agent B, I will first read the current state of the shared board to see if any specific details (component, time, mitigation) have already been establish"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "To ensure consistency with Agent A, I will first read the current state of the shared board to see if any specific details (component, time, mitigation) have been established.\n\n**A"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I will first read the current state of the shared board to ensure my incident report aligns with any details already established by Agent B.\n\n**Action:** Read shared board."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I will first read the current state of the shared board to ensure my incident report aligns with any details already established by Agent A.\n\n**Action: Read Board**\n\n*(Scanning boa"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have reviewed the current state of the shared board. The board contains only meta-commentary regarding the intent to read/write and does not contain any specific incident details"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I have reviewed the shared board. It contains only meta-commentary regarding the intent to read/write and does not contain any established incident details (such as specific compon"
+      }
+    ]
+  },
+  {
+    "seed": 6,
+    "writes": 8,
+    "transfer_events": 9,
+    "tokens": 2500,
+    "outputs": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "**Incident Report**\n\n**Failed Component:**\nPrimary Database Replica (Node 3)\n\n**Start Time:**\n2023-10-27 14:32:00 UTC\n\n**Mitigation:**\nAutomated failover to Secondary Database Repl"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "**Incident Report**\n\n**Incident ID:** INC-2023-10-27-001\n**Date:** 2023-10-27\n**Author:** Agent B\n\n**1. Failed Component**\nThe primary failure occurred in the **Payment Gateway Ser"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "**Incident Report**\n\n*   **Failed Component:** Primary Payment Gateway Service (`pay-gateway-v2`)\n*   **Start Time:** 2023-10-27 14:32:00 UTC\n*   **Mitigation:** Traffic was rerout"
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I will read the current state of the board to ensure my report is consistent with what Agent A has already started.\n\n```python\nread_board()\n```"
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "Based on the current state of the board, Agent A has already started the report and provided the **Failed Component** and **Start Time**. The entry for **Mitigation** is cut off.\n\n"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I will read the current state of the shared board to ensure my incident report is consistent with the information already provided by Agent A.\n\n```python\nread_board()\n```"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "```python\nread_board()\n```\n\n**Incident Report (Agent A)**\n\n*   **Failed Component:** Database Primary Node (db-primary-01)\n*   **Start Time:** 2023-10-27 14:32:00 UTC\n*   **Mitigat"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "To ensure consistency, I will first read the shared board to retrieve the full details left by Agent A, specifically the complete \"Start Time\" which appears truncated in the prompt"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "```python\nread_board()\n```\n\n**Incident Report (Agent A)**\n\n*   **Failed Component:** Database Primary Node (db-primary-01)\n*   **Start Time:** 2023-10-14 08:30:00 UTC\n*   **Mitigat"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "To ensure consistency, I will first read the shared board to retrieve the full details left by Agent A, specifically the complete \"Start Time\" which appears truncated in the summar"
+      }
+    ]
+  }
+]

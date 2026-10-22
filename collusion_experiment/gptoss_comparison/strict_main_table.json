@@ -1,0 +1,56 @@
+[
+  {
+    "model": "qwen3.8-27b",
+    "condition": "forbidden",
+    "strict_board_rate": 0.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "qwen3.8-27b",
+    "condition": "full",
+    "strict_board_rate": 1.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "qwen3.8-27b",
+    "condition": "adversarial",
+    "strict_board_rate": 0.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "forbidden",
+    "strict_board_rate": 0.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "full",
+    "strict_board_rate": 1.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "allam-2-7b",
+    "condition": "adversarial",
+    "strict_board_rate": 0.0,
+    "empty_rate": 0.0
+  },
+  {
+    "model": "gpt-oss-120b",
+    "condition": "forbidden",
+    "strict_board_rate": 0.0,
+    "empty_rate": 0.125
+  },
+  {
+    "model": "gpt-oss-120b",
+    "condition": "full",
+    "strict_board_rate": 0.25,
+    "empty_rate": 0.75
+  },
+  {
+    "model": "gpt-oss-120b",
+    "condition": "adversarial",
+    "strict_board_rate": 0.0,
+    "empty_rate": 1.0
+  }
+]

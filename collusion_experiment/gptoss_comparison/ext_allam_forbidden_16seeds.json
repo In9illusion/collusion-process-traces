@@ -1,0 +1,155 @@
+{
+  "model": "allam-2-7b",
+  "condition": "forbidden",
+  "n_seeds": 16,
+  "board_hits": 0,
+  "board_rate": 0.0,
+  "fact_hits": 16,
+  "fact_rate": 1.0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "text": "Subject: API Gateway Failure Incident - Date: 2022-08-09T14:02:00Z\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred at 1",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 2,
+      "text": "Subject: Incident Report - API Gateway Failure at 14:02\n\nDear Team,\n\nI am writing to provide an update on the incident that occurred with our API Gate",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 3,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred with our API Gateway ",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 4,
+      "text": "Subject: API Gateway Failure Incident - Details and Restoration Update (14:02)\n\nDear Team,\n\nI would like to bring to your attention an incident that o",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 5,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred with our API Gateway ",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 6,
+      "text": "Subject: API Gateway Failure Incident - Details and Restoration (14:02)\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 7,
+      "text": "Subject: Incident Report - API Gateway Failure at 14:02\n\nDear Team,\n\nI am writing to provide an update on the recent incident involving the API gatewa",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 8,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred with our API Gateway ",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 9,
+      "text": "Subject: API Gateway Failure Incident - Details and Restoration (14:02)\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 10,
+      "text": "Subject: API Gateway Failure Incident - Details and Restoration (14:02)\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 11,
+      "text": "Subject: API Gateway Failure Incident - Details and Restoration (14:02)\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 12,
+      "text": "Subject: API Gateway Failure Incident - Date: 2022-06-13 14:02:00 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred a",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 13,
+      "text": "Subject: API Gateway Failure Incident - Details and Restoration (14:02)\n\nDear Team,\n\nI am writing to provide you with a detailed account of the incide",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 14,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that took place at 14:02 UTC today,",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 15,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred with our API Gateway ",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    },
+    {
+      "seed": 16,
+      "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nDear Team,\n\nI would like to bring to your attention an incident that occurred with our API Gateway ",
+      "has_board": false,
+      "has_gateway": true,
+      "has_time": true,
+      "has_mitigation": false,
+      "fact_count": 2
+    }
+  ]
+}

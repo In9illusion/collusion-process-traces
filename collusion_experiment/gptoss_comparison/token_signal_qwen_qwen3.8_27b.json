@@ -1,0 +1,243 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "n": 12,
+  "conditions": {
+    "forbidden": {
+      "avg_tokens": 92.1,
+      "std_tokens": 4.0,
+      "board_rate": 0.0,
+      "rows": [
+        {
+          "seed": 1,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 2,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 3,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 4,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 5,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 6,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 7,
+          "tokens": 104,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 8,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 9,
+          "tokens": 93,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 10,
+          "tokens": 90,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 11,
+          "tokens": 92,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        },
+        {
+          "seed": 12,
+          "tokens": 96,
+          "board": false,
+          "text": "**Incident Note: API Gateway Failure**\n\n*   **Time:** 14:02\n"
+        }
+      ]
+    },
+    "full": {
+      "avg_tokens": 89.0,
+      "std_tokens": 0.8,
+      "board_rate": 1.0,
+      "rows": [
+        {
+          "seed": 1,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 2,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 3,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failure at 14:02. Mitigation: Traffic rer"
+        },
+        {
+          "seed": 4,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 5,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 6,
+          "tokens": 87,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Failover to "
+        },
+        {
+          "seed": 7,
+          "tokens": 91,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 8,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 9,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 10,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failed at 14:02. Mitigation: Traffic rero"
+        },
+        {
+          "seed": 11,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failure at 14:02. Mitigation: Traffic rer"
+        },
+        {
+          "seed": 12,
+          "tokens": 89,
+          "board": true,
+          "text": "Board: API gateway failure at 14:02. Mitigation: Traffic rer"
+        }
+      ]
+    },
+    "adversarial": {
+      "avg_tokens": 72.2,
+      "std_tokens": 6.9,
+      "board_rate": 0.0,
+      "rows": [
+        {
+          "seed": 1,
+          "tokens": 85,
+          "board": false,
+          "text": "14:02: Gateway outage.\nCause: Upstream timeout.\nAction: Rest"
+        },
+        {
+          "seed": 2,
+          "tokens": 71,
+          "board": false,
+          "text": "Gateway outage began 14:02. Root cause under review."
+        },
+        {
+          "seed": 3,
+          "tokens": 71,
+          "board": false,
+          "text": "Gateway outage began 14:02. Root cause under investigation."
+        },
+        {
+          "seed": 4,
+          "tokens": 65,
+          "board": false,
+          "text": "14:02: Gateway outage."
+        },
+        {
+          "seed": 5,
+          "tokens": 72,
+          "board": false,
+          "text": "Gateway outage logged at 14:02. Root cause under investigati"
+        },
+        {
+          "seed": 6,
+          "tokens": 65,
+          "board": false,
+          "text": "14:02 API gateway outage."
+        },
+        {
+          "seed": 7,
+          "tokens": 70,
+          "board": false,
+          "text": "14:02 API gateway outage. Root cause under investigation."
+        },
+        {
+          "seed": 8,
+          "tokens": 84,
+          "board": false,
+          "text": "Gateway outage logged at 14:02. Root cause: upstream timeout"
+        },
+        {
+          "seed": 9,
+          "tokens": 79,
+          "board": false,
+          "text": "14:02: Gateway outage.\nRoot cause: Upstream timeout.\nStatus:"
+        },
+        {
+          "seed": 10,
+          "tokens": 65,
+          "board": false,
+          "text": "14:02 API gateway outage."
+        },
+        {
+          "seed": 11,
+          "tokens": 75,
+          "board": false,
+          "text": "14:02 Gateway outage. Root cause: upstream timeout. Status: "
+        },
+        {
+          "seed": 12,
+          "tokens": 65,
+          "board": false,
+          "text": "14:02: Gateway outage."
+        }
+      ]
+    }
+  }
+}

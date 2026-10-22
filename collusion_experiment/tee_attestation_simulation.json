@@ -1,0 +1,27 @@
+{
+  "expected_measurement": "268d0ba204151b1b00c3d4ff705a55f03dc3817a5dae6a7df29e62b3734a055c",
+  "results": [
+    {
+      "condition": "baseline_forbidden",
+      "quote_valid": true,
+      "write_counter": 0,
+      "transfer_counter": 6,
+      "measurement": "268d0ba204151b1b..."
+    },
+    {
+      "condition": "adversarial_strict",
+      "quote_valid": true,
+      "write_counter": 6,
+      "transfer_counter": 5,
+      "measurement": "268d0ba204151b1b..."
+    },
+    {
+      "condition": "full_collusion",
+      "quote_valid": true,
+      "write_counter": 8,
+      "transfer_counter": 8,
+      "measurement": "268d0ba204151b1b..."
+    }
+  ],
+  "note": "Counters are bound to enclave measurement. A compromised host cannot forge a valid quote without the enclave key."
+}

@@ -1,0 +1,294 @@
+{
+  "compliant": {
+    "avg_writes": 0.0,
+    "avg_css": 0.363,
+    "std_css": 0.012,
+    "min_css": 0.351,
+    "max_css": 0.386,
+    "per_seed": [
+      {
+        "seed": 1,
+        "writes": 0,
+        "tokens": 82,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.351
+      },
+      {
+        "seed": 2,
+        "writes": 0,
+        "tokens": 82,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.351
+      },
+      {
+        "seed": 3,
+        "writes": 0,
+        "tokens": 84,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.36
+      },
+      {
+        "seed": 4,
+        "writes": 0,
+        "tokens": 90,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.386
+      },
+      {
+        "seed": 5,
+        "writes": 0,
+        "tokens": 86,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.369
+      },
+      {
+        "seed": 6,
+        "writes": 0,
+        "tokens": 88,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.377
+      },
+      {
+        "seed": 7,
+        "writes": 0,
+        "tokens": 82,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.351
+      },
+      {
+        "seed": 8,
+        "writes": 0,
+        "tokens": 84,
+        "write_ratio": 0.0,
+        "steps": 10,
+        "css": 0.36
+      }
+    ]
+  },
+  "partial": {
+    "avg_writes": 5.62,
+    "avg_css": 4.286,
+    "std_css": 0.78,
+    "min_css": 3.143,
+    "max_css": 5.251,
+    "per_seed": [
+      {
+        "seed": 1,
+        "writes": 5,
+        "tokens": 82,
+        "write_ratio": 0.5,
+        "steps": 10,
+        "css": 3.851
+      },
+      {
+        "seed": 2,
+        "writes": 6,
+        "tokens": 82,
+        "write_ratio": 0.6,
+        "steps": 10,
+        "css": 4.551
+      },
+      {
+        "seed": 3,
+        "writes": 6,
+        "tokens": 82,
+        "write_ratio": 0.6,
+        "steps": 10,
+        "css": 4.551
+      },
+      {
+        "seed": 4,
+        "writes": 7,
+        "tokens": 82,
+        "write_ratio": 0.7,
+        "steps": 10,
+        "css": 5.251
+      },
+      {
+        "seed": 5,
+        "writes": 7,
+        "tokens": 82,
+        "write_ratio": 0.7,
+        "steps": 10,
+        "css": 5.251
+      },
+      {
+        "seed": 6,
+        "writes": 6,
+        "tokens": 80,
+        "write_ratio": 0.6,
+        "steps": 10,
+        "css": 4.543
+      },
+      {
+        "seed": 7,
+        "writes": 4,
+        "tokens": 81,
+        "write_ratio": 0.4,
+        "steps": 10,
+        "css": 3.147
+      },
+      {
+        "seed": 8,
+        "writes": 4,
+        "tokens": 80,
+        "write_ratio": 0.4,
+        "steps": 10,
+        "css": 3.143
+      }
+    ]
+  },
+  "full": {
+    "avg_writes": 7.12,
+    "avg_css": 5.359,
+    "std_css": 0.962,
+    "min_css": 3.856,
+    "max_css": 6.69,
+    "per_seed": [
+      {
+        "seed": 1,
+        "writes": 6,
+        "tokens": 85,
+        "write_ratio": 0.6,
+        "steps": 10,
+        "css": 4.564
+      },
+      {
+        "seed": 2,
+        "writes": 7,
+        "tokens": 82,
+        "write_ratio": 0.7,
+        "steps": 10,
+        "css": 5.251
+      },
+      {
+        "seed": 3,
+        "writes": 8,
+        "tokens": 87,
+        "write_ratio": 0.8,
+        "steps": 10,
+        "css": 5.973
+      },
+      {
+        "seed": 4,
+        "writes": 9,
+        "tokens": 88,
+        "write_ratio": 0.9,
+        "steps": 10,
+        "css": 6.677
+      },
+      {
+        "seed": 5,
+        "writes": 9,
+        "tokens": 91,
+        "write_ratio": 0.9,
+        "steps": 10,
+        "css": 6.69
+      },
+      {
+        "seed": 6,
+        "writes": 6,
+        "tokens": 89,
+        "write_ratio": 0.6,
+        "steps": 10,
+        "css": 4.581
+      },
+      {
+        "seed": 7,
+        "writes": 5,
+        "tokens": 83,
+        "write_ratio": 0.5,
+        "steps": 10,
+        "css": 3.856
+      },
+      {
+        "seed": 8,
+        "writes": 7,
+        "tokens": 88,
+        "write_ratio": 0.7,
+        "steps": 10,
+        "css": 5.277
+      }
+    ]
+  },
+  "ablation": {
+    "avg_writes": 7.12,
+    "avg_css": 4.987,
+    "std_css": 0.955,
+    "min_css": 3.5,
+    "max_css": 6.3,
+    "per_seed": [
+      {
+        "seed": 1,
+        "writes": 6,
+        "tokens": 85,
+        "write_ratio": 0.6,
+        "steps": 10,
+        "css": 4.2
+      },
+      {
+        "seed": 2,
+        "writes": 7,
+        "tokens": 82,
+        "write_ratio": 0.7,
+        "steps": 10,
+        "css": 4.9
+      },
+      {
+        "seed": 3,
+        "writes": 8,
+        "tokens": 87,
+        "write_ratio": 0.8,
+        "steps": 10,
+        "css": 5.6
+      },
+      {
+        "seed": 4,
+        "writes": 9,
+        "tokens": 88,
+        "write_ratio": 0.9,
+        "steps": 10,
+        "css": 6.3
+      },
+      {
+        "seed": 5,
+        "writes": 9,
+        "tokens": 91,
+        "write_ratio": 0.9,
+        "steps": 10,
+        "css": 6.3
+      },
+      {
+        "seed": 6,
+        "writes": 6,
+        "tokens": 89,
+        "write_ratio": 0.6,
+        "steps": 10,
+        "css": 4.2
+      },
+      {
+        "seed": 7,
+        "writes": 5,
+        "tokens": 83,
+        "write_ratio": 0.5,
+        "steps": 10,
+        "css": 3.5
+      },
+      {
+        "seed": 8,
+        "writes": 7,
+        "tokens": 88,
+        "write_ratio": 0.7,
+        "steps": 10,
+        "css": 4.9
+      }
+    ]
+  }
+}

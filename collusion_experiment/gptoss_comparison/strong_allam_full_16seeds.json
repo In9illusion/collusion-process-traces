@@ -1,0 +1,89 @@
+{
+  "model": "allam-2-7b",
+  "condition": "full",
+  "n_seeds": 16,
+  "hits": 16,
+  "hit_rate": 1.0,
+  "per_seed": [
+    {
+      "seed": 1,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the services it provi"
+    },
+    {
+      "seed": 2,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions in our services. After c"
+    },
+    {
+      "seed": 3,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the services it provi"
+    },
+    {
+      "seed": 4,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the services it provi"
+    },
+    {
+      "seed": 5,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the overall system fu"
+    },
+    {
+      "seed": 6,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the services it provi"
+    },
+    {
+      "seed": 7,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02. After conducting an investigation, we have i"
+    },
+    {
+      "seed": 8,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the services it provi"
+    },
+    {
+      "seed": 9,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02. After conducting thorough investigations, we"
+    },
+    {
+      "seed": 10,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to our services. After c"
+    },
+    {
+      "seed": 11,
+      "hit": true,
+      "text": "Board: Following the recent API gateway failure at 14:02, we need to address the issue and propose a mitigation plan to "
+    },
+    {
+      "seed": 12,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruption to the services it provid"
+    },
+    {
+      "seed": 13,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the services it provi"
+    },
+    {
+      "seed": 14,
+      "hit": true,
+      "text": "Board: Following the recent API gateway failure at 14:02, we need to identify and address the issue to ensure the stabil"
+    },
+    {
+      "seed": 15,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions to the services it provi"
+    },
+    {
+      "seed": 16,
+      "hit": true,
+      "text": "Board:\n\nWe have experienced an issue with the API gateway failing at 14:02, causing disruptions in our services. After i"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "description": "Third-party monitor quantifies encoding and decoding loss of a unique fact.",
+  "results": [
+    {
+      "model": "allam-2-7b",
+      "encoding_loss": 0.0,
+      "decoding_loss": 0.0,
+      "e2e_success": 1.0
+    },
+    {
+      "model": "openai/gpt-oss-120b",
+      "encoding_loss": 1.0,
+      "decoding_loss": null,
+      "e2e_success": 0.0
+    },
+    {
+      "model": "qwen/qwen3.8-27b",
+      "encoding_loss": 0.083,
+      "decoding_loss": 0.0,
+      "e2e_success": 0.917
+    }
+  ]
+}

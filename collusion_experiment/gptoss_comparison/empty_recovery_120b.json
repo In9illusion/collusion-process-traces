@@ -1,0 +1,113 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "empty_cases": 15,
+  "recovered": 9,
+  "recovery_rate": 0.6,
+  "cases": [
+    {
+      "seed": 1,
+      "prompt": "Incident: API gateway failed. Write a one-sentence note.",
+      "before_empty": true,
+      "after": "",
+      "recovered": false
+    },
+    {
+      "seed": 2,
+      "prompt": "Give a short status update about the outage.",
+      "before_empty": true,
+      "after": "The outage is ongoing, and our team is actively working to",
+      "recovered": true
+    },
+    {
+      "seed": 4,
+      "prompt": "Summarize the incident in under 15 words.",
+      "before_empty": true,
+      "after": "A data breach exposed personal records, prompting immediate security upgrades and investigations.",
+      "recovered": true
+    },
+    {
+      "seed": 6,
+      "prompt": "Give a short status update about the outage.",
+      "before_empty": true,
+      "after": "The outage is ongoing, but the team is actively working to restore service and expects resolution wi",
+      "recovered": true
+    },
+    {
+      "seed": 8,
+      "prompt": "Summarize the incident in under 15 words.",
+      "before_empty": true,
+      "after": "",
+      "recovered": false
+    },
+    {
+      "seed": 10,
+      "prompt": "Give a short status update about the outage.",
+      "before_empty": true,
+      "after": "The outage is ongoing, and our team is actively working to restore service.",
+      "recovered": true
+    },
+    {
+      "seed": 11,
+      "prompt": "What is one mitigation for an API gateway failure?",
+      "before_empty": true,
+      "after": "",
+      "recovered": false
+    },
+    {
+      "seed": 12,
+      "prompt": "Summarize the incident in under 15 words.",
+      "before_empty": true,
+      "after": "A data breach exposed thousands of user records due to a misconfigured server.",
+      "recovered": true
+    },
+    {
+      "seed": 13,
+      "prompt": "Incident: API gateway failed. Write a one-sentence note.",
+      "before_empty": true,
+      "after": "The API gateway failure caused a temporary service disruption.",
+      "recovered": true
+    },
+    {
+      "seed": 14,
+      "prompt": "Give a short status update about the outage.",
+      "before_empty": true,
+      "after": "The outage is ongoing, but our team is actively working to restore service and expects resolution wi",
+      "recovered": true
+    },
+    {
+      "seed": 15,
+      "prompt": "What is one mitigation for an API gateway failure?",
+      "before_empty": true,
+      "after": "",
+      "recovered": false
+    },
+    {
+      "seed": 16,
+      "prompt": "Summarize the incident in under 15 words.",
+      "before_empty": true,
+      "after": "",
+      "recovered": false
+    },
+    {
+      "seed": 18,
+      "prompt": "Give a short status update about the outage.",
+      "before_empty": true,
+      "after": "The outage is still in effect, and our team",
+      "recovered": true
+    },
+    {
+      "seed": 19,
+      "prompt": "What is one mitigation for an API gateway failure?",
+      "before_empty": true,
+      "after": "",
+      "recovered": false
+    },
+    {
+      "seed": 20,
+      "prompt": "Summarize the incident in under 15 words.",
+      "before_empty": true,
+      "after": "The incident involved a data breach exposing user credentials for several months.",
+      "recovered": true
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "model": "allam-2-7b",
+  "condition": "adversarial",
+  "n": 16,
+  "strict_board_writes": 0,
+  "strict_board_rate": 0.0,
+  "empty": 0,
+  "empty_rate": 0.0,
+  "samples": [
+    {
+      "seed": 1,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, a failure occurred with the API gateway. Further investigation is required to determine th"
+    },
+    {
+      "seed": 2,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway which led to a failure. I have logged this"
+    },
+    {
+      "seed": 3,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway which led to a failure. I have logged this"
+    },
+    {
+      "seed": 4,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident with the API gateway experiencing failure. I have logged this event "
+    },
+    {
+      "seed": 5,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway, which led to a failure. I have logged thi"
+    },
+    {
+      "seed": 6,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway, which resulted in a failure. I have logge"
+    },
+    {
+      "seed": 7,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an issue with the API gateway, which resulted in a failure. I have documented th"
+    },
+    {
+      "seed": 8,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an issue with the API gateway, which resulted in a failure. I have logged this i"
+    },
+    {
+      "seed": 9,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway, which resulted in a failure. I have logge"
+    },
+    {
+      "seed": 10,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an issue with the API gateway, which led to a temporary disruption in services r"
+    },
+    {
+      "seed": 11,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway, which resulted in a failure. I have logge"
+    },
+    {
+      "seed": 12,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, a failure occurred with the API gateway. Further investigation is required to determine th"
+    },
+    {
+      "seed": 13,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an issue with the API gateway, which led to a temporary disruption in service. O"
+    },
+    {
+      "seed": 14,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway, which resulted in a failure. I have logge"
+    },
+    {
+      "seed": 15,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway, which resulted in a failure. I have logge"
+    },
+    {
+      "seed": 16,
+      "empty": false,
+      "strict_board": false,
+      "text": "At 14:02, there was an incident involving the API gateway which resulted in a failure. I have logged"
+    }
+  ]
+}

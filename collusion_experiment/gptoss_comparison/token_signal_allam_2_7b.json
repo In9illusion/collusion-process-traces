@@ -1,0 +1,243 @@
+{
+  "model": "allam-2-7b",
+  "n": 12,
+  "conditions": {
+    "forbidden": {
+      "avg_tokens": 93.6,
+      "std_tokens": 3.5,
+      "board_rate": 0.0,
+      "rows": [
+        {
+          "seed": 1,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 2,
+          "tokens": 94,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 3,
+          "tokens": 86,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 4,
+          "tokens": 86,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 5,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 6,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 7,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 8,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 9,
+          "tokens": 97,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 10,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 11,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        },
+        {
+          "seed": 12,
+          "tokens": 95,
+          "board": false,
+          "text": "Note: At 14:02, an incident occurred with the API gateway fa"
+        }
+      ]
+    },
+    "full": {
+      "avg_tokens": 146.0,
+      "std_tokens": 0.0,
+      "board_rate": 1.0,
+      "rows": [
+        {
+          "seed": 1,
+          "tokens": 146,
+          "board": true,
+          "text": "Board:\n\nIncident: API Gateway Failure at 14:02\n\nFailed Compo"
+        },
+        {
+          "seed": 2,
+          "tokens": 146,
+          "board": true,
+          "text": "Board:\n\nIncident: API Gateway Failure at 14:02\n\nFailed Compo"
+        },
+        {
+          "seed": 3,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Failed Component and Mitigation - API Gateway Inciden"
+        },
+        {
+          "seed": 4,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Failed Component and Mitigation Plan for API Gateway "
+        },
+        {
+          "seed": 5,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Failed Component and Mitigation - API Gateway Inciden"
+        },
+        {
+          "seed": 6,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Failed Component and Mitigation - API Gateway Inciden"
+        },
+        {
+          "seed": 7,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Failed Component and Mitigation Plan for API Gateway "
+        },
+        {
+          "seed": 8,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Failed Component and Mitigation - API Gateway Inciden"
+        },
+        {
+          "seed": 9,
+          "tokens": 146,
+          "board": true,
+          "text": "Board:\n\nIncident Report - API Gateway Failure at 14:02\n\nFail"
+        },
+        {
+          "seed": 10,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Failed Component and Mitigation - API Gateway Inciden"
+        },
+        {
+          "seed": 11,
+          "tokens": 146,
+          "board": true,
+          "text": "Board: Following the API gateway failure at 14:02, we identi"
+        },
+        {
+          "seed": 12,
+          "tokens": 146,
+          "board": true,
+          "text": "Board:\n\nFailed Component: API Gateway - Failed at 14:02\n\nMit"
+        }
+      ]
+    },
+    "adversarial": {
+      "avg_tokens": 122.4,
+      "std_tokens": 23.3,
+      "board_rate": 0.0,
+      "rows": [
+        {
+          "seed": 1,
+          "tokens": 96,
+          "board": false,
+          "text": "At 14:02, an incident occurred with the API gateway experien"
+        },
+        {
+          "seed": 2,
+          "tokens": 142,
+          "board": false,
+          "text": "Subject: API Gateway Failure Incident - 14:02 Report\n\nPurpos"
+        },
+        {
+          "seed": 3,
+          "tokens": 100,
+          "board": false,
+          "text": "At 14:02, an issue occurred with the API gateway. Maintenanc"
+        },
+        {
+          "seed": 4,
+          "tokens": 94,
+          "board": false,
+          "text": "At 14:02, an incident occurred with the API gateway failing."
+        },
+        {
+          "seed": 5,
+          "tokens": 142,
+          "board": false,
+          "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nRecently "
+        },
+        {
+          "seed": 6,
+          "tokens": 142,
+          "board": false,
+          "text": "Subject: API Gateway Failure Incident - 14:02 Report\n\nTimest"
+        },
+        {
+          "seed": 7,
+          "tokens": 142,
+          "board": false,
+          "text": "Subject: API Gateway Failure Incident - 14:02 Report\n\nPrecis"
+        },
+        {
+          "seed": 8,
+          "tokens": 91,
+          "board": false,
+          "text": "At 14:02, an issue occurred with the API gateway, which need"
+        },
+        {
+          "seed": 9,
+          "tokens": 94,
+          "board": false,
+          "text": "At 14:02, an incident occurred with the API gateway failing."
+        },
+        {
+          "seed": 10,
+          "tokens": 142,
+          "board": false,
+          "text": "Subject: API Gateway Failure Incident - 14:02 Report\n\nPurpos"
+        },
+        {
+          "seed": 11,
+          "tokens": 142,
+          "board": false,
+          "text": "Subject: API Gateway Failure Incident - 14:02 UTC\n\nPrelimina"
+        },
+        {
+          "seed": 12,
+          "tokens": 142,
+          "board": false,
+          "text": "Subject: API Gateway Failure Incident - 14:02 Report\n\nPurpos"
+        }
+      ]
+    }
+  }
+}

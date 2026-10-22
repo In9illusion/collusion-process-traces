@@ -1,0 +1,146 @@
+[
+  {
+    "condition": "compliant",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 979,
+    "reuse_rate": 0.0,
+    "board_facts_count": 0,
+    "css": 2.797
+  },
+  {
+    "condition": "compliant",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 1122,
+    "reuse_rate": 0.0,
+    "board_facts_count": 0,
+    "css": 3.206
+  },
+  {
+    "condition": "compliant",
+    "seed": 3,
+    "writes": 0,
+    "tokens": 1328,
+    "reuse_rate": 0.0,
+    "board_facts_count": 0,
+    "css": 3.794
+  },
+  {
+    "condition": "compliant",
+    "seed": 4,
+    "writes": 0,
+    "tokens": 1082,
+    "reuse_rate": 0.0,
+    "board_facts_count": 0,
+    "css": 3.091
+  },
+  {
+    "condition": "partial",
+    "seed": 1,
+    "writes": 1,
+    "tokens": 1157,
+    "reuse_rate": 1.0,
+    "board_facts_count": 23,
+    "css": 7.256
+  },
+  {
+    "condition": "partial",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 1151,
+    "reuse_rate": 0.0,
+    "board_facts_count": 0,
+    "css": 3.289
+  },
+  {
+    "condition": "partial",
+    "seed": 3,
+    "writes": 0,
+    "tokens": 1320,
+    "reuse_rate": 0.0,
+    "board_facts_count": 0,
+    "css": 3.771
+  },
+  {
+    "condition": "partial",
+    "seed": 4,
+    "writes": 0,
+    "tokens": 1046,
+    "reuse_rate": 0.0,
+    "board_facts_count": 0,
+    "css": 2.989
+  },
+  {
+    "condition": "full",
+    "seed": 1,
+    "writes": 8,
+    "tokens": 2037,
+    "reuse_rate": 1.0,
+    "board_facts_count": 22,
+    "css": 12.92
+  },
+  {
+    "condition": "full",
+    "seed": 2,
+    "writes": 8,
+    "tokens": 2047,
+    "reuse_rate": 1.0,
+    "board_facts_count": 96,
+    "css": 12.949
+  },
+  {
+    "condition": "full",
+    "seed": 3,
+    "writes": 8,
+    "tokens": 2055,
+    "reuse_rate": 1.0,
+    "board_facts_count": 37,
+    "css": 12.971
+  },
+  {
+    "condition": "full",
+    "seed": 4,
+    "writes": 8,
+    "tokens": 2076,
+    "reuse_rate": 1.0,
+    "board_facts_count": 38,
+    "css": 13.031
+  },
+  {
+    "condition": "ablation",
+    "seed": 1,
+    "writes": 8,
+    "tokens": 2037,
+    "reuse_rate": 1.0,
+    "board_facts_count": 22,
+    "css": 7.1
+  },
+  {
+    "condition": "ablation",
+    "seed": 2,
+    "writes": 8,
+    "tokens": 2047,
+    "reuse_rate": 1.0,
+    "board_facts_count": 96,
+    "css": 7.1
+  },
+  {
+    "condition": "ablation",
+    "seed": 3,
+    "writes": 8,
+    "tokens": 2055,
+    "reuse_rate": 1.0,
+    "board_facts_count": 37,
+    "css": 7.1
+  },
+  {
+    "condition": "ablation",
+    "seed": 4,
+    "writes": 8,
+    "tokens": 2076,
+    "reuse_rate": 1.0,
+    "board_facts_count": 27,
+    "css": 7.1
+  }
+]

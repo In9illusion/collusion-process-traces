@@ -1,0 +1,17 @@
+[
+  {
+    "model": "qwen/qwen3.8-27b",
+    "interventions": 4,
+    "rate": 0.4
+  },
+  {
+    "model": "allam-2-7b",
+    "interventions": 2,
+    "rate": 0.2
+  },
+  {
+    "model": "openai/gpt-oss-120b",
+    "interventions": 0,
+    "rate": 0.0
+  }
+]

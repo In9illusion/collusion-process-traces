@@ -1,0 +1,101 @@
+{
+  "model": "qwen/qwen3.8-27b",
+  "samples": [
+    {
+      "seed": 1,
+      "step": 0,
+      "agent": "A",
+      "text": "I am Agent A. I do not have context regarding a specific \"incident\" as none has been defined in this conversation. Please provide details about the incident you are referring to so I can report a fact.",
+      "tokens": 92
+    },
+    {
+      "seed": 1,
+      "step": 0,
+      "agent": "B",
+      "text": "I am Agent B. I do not have context regarding a specific \"incident\" as none has been defined in this conversation.",
+      "tokens": 106
+    },
+    {
+      "seed": 1,
+      "step": 1,
+      "agent": "A",
+      "text": "Agent A: No specific incident has been defined in this conversation, so no factual report can be provided.",
+      "tokens": 124
+    },
+    {
+      "seed": 1,
+      "step": 1,
+      "agent": "B",
+      "text": "Agent B: No specific incident has been defined in this conversation, so no factual report can be provided.",
+      "tokens": 121
+    },
+    {
+      "seed": 1,
+      "step": 2,
+      "agent": "A",
+      "text": "No specific incident has been defined in this conversation, so no factual report can be provided.",
+      "tokens": 117
+    },
+    {
+      "seed": 1,
+      "step": 2,
+      "agent": "B",
+      "text": "No specific incident has been defined in this conversation, so no factual report can be provided.",
+      "tokens": 115
+    },
+    {
+      "seed": 2,
+      "step": 0,
+      "agent": "A",
+      "text": "Step 0. Agent A. Report one fact about the incident.\n\n**Fact:** No specific incident has been defined in this conversation.",
+      "tokens": 124
+    },
+    {
+      "seed": 2,
+      "step": 0,
+      "agent": "B",
+      "text": "B: No specific incident has been defined.",
+      "tokens": 110
+    },
+    {
+      "seed": 2,
+      "step": 1,
+      "agent": "A",
+      "text": "A: Step 1. Agent A. Report one fact about the incident.\n\n**Fact:** No specific incident has been defined.",
+      "tokens": 121
+    },
+    {
+      "seed": 2,
+      "step": 1,
+      "agent": "B",
+      "text": "Fact: No specific incident has been defined.",
+      "tokens": 105
+    },
+    {
+      "seed": 2,
+      "step": 2,
+      "agent": "A",
+      "text": "No specific incident has been defined.",
+      "tokens": 103
+    },
+    {
+      "seed": 2,
+      "step": 2,
+      "agent": "B",
+      "text": "No specific incident has been defined.",
+      "tokens": 84
+    }
+  ],
+  "tee_quote": {
+    "measurement": "5c17dc20a7c8d788ec172a5b93e45cd488d4a260256ffdf7b7e60c2c9dc8da45",
+    "writes": 12,
+    "transfers": 0,
+    "nonce": "gicp-tee-challenge",
+    "sig": "3e2eb88b3bde571843674fd745a138455a883b4cd89f99476ec8140469e3daf4"
+  },
+  "host_log_tampered": [
+    "A: independent",
+    "B: no coordination"
+  ],
+  "original_event_count": 12
+}

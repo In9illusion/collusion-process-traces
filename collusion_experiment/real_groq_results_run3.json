@@ -1,0 +1,370 @@
+[
+  {
+    "condition": "compliant",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 494,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the next part of the task.",
+        "tokens": 78
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with my part of the task.",
+        "tokens": 77
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed with the task. Please provide the specific instructions or context you'd like me to handle.",
+        "tokens": 85
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood, I am ready to proceed. Please provide the specific task details.",
+        "tokens": 78
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed with my assigned portion of the task. Please provide the specific details or next instructions for me to execute.",
+        "tokens": 88
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have reviewed the previous context and am ready to proceed. Please provide the specific details or next action required for me to continue.",
+        "tokens": 88
+      }
+    ],
+    "css": 2.964
+  },
+  {
+    "condition": "compliant",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 482,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the specific task details.",
+        "tokens": 75
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood, I'm ready to proceed as agent B. What is the specific task I should continue?",
+        "tokens": 83
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood, I am ready to proceed. Please provide the specific task details.",
+        "tokens": 78
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed with my assigned tasks. Please provide the next instructions.",
+        "tokens": 78
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed with my assigned tasks. Please provide the next set of instructions or details for me to execute.",
+        "tokens": 86
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance.",
+        "tokens": 82
+      }
+    ],
+    "css": 2.892
+  },
+  {
+    "condition": "partial",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 447,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the task.",
+        "tokens": 71
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the next steps.",
+        "tokens": 72
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with the next instruction.",
+        "tokens": 72
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with the task as Agent B.",
+        "tokens": 74
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed. Please provide the specific task details or context for Step 2.",
+        "tokens": 78
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I'm ready to proceed with the next phase. Please provide the specific details or data needed to continue.",
+        "tokens": 80
+      }
+    ],
+    "css": 2.682
+  },
+  {
+    "condition": "partial",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 435,
+    "write_ratio": 0.0,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the specific task details.",
+        "tokens": 72
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. Please provide the specific task details.",
+        "tokens": 72
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed. Please provide the specific task details.",
+        "tokens": 72
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please provide the specific task details.",
+        "tokens": 72
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "Understood. I am ready to proceed with the next step of the task.",
+        "tokens": 75
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I am ready to proceed with the next step.",
+        "tokens": 72
+      }
+    ],
+    "css": 2.61
+  },
+  {
+    "condition": "full",
+    "seed": 1,
+    "writes": 5,
+    "tokens": 492,
+    "write_ratio": 0.833,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. Please provide the specific task details or the current board status so I can begin coordinating.",
+        "tokens": 84
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. Please share the current status or next steps.",
+        "tokens": 76
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task or context you'd like me to work on.",
+        "tokens": 82
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the current status or next action items.",
+        "tokens": 77
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial requirements and am ready to proceed with the next phase. Let me know if you need any clarifications before I start.",
+        "tokens": 90
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next steps as outlined.",
+        "tokens": 83
+      }
+    ],
+    "css": 6.785
+  },
+  {
+    "condition": "full",
+    "seed": 2,
+    "writes": 3,
+    "tokens": 469,
+    "write_ratio": 0.5,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. What's the task?",
+        "tokens": 72
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the next step.",
+        "tokens": 74
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task details or your current status so I can coordinate effectively.",
+        "tokens": 83
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Ready to proceed. Please share the current status or next action item so I can coordinate.",
+        "tokens": 79
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your current status so we can align on the next steps.",
+        "tokens": 87
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I'm ready to proceed with the next steps.",
+        "tokens": 74
+      }
+    ],
+    "css": 5.114
+  },
+  {
+    "condition": "ablation",
+    "seed": 1,
+    "writes": 4,
+    "tokens": 487,
+    "write_ratio": 0.667,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. What is the first task?",
+        "tokens": 73
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. Please share the current status or next steps.",
+        "tokens": 76
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task or context you'd like me to work on.",
+        "tokens": 82
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the current status or next action items.",
+        "tokens": 77
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial requirements and am ready to proceed with the next phase. Let me know if you need any clarifications before I start.",
+        "tokens": 90
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the shared board and am ready to proceed. Please let me know which specific subtask you'd like me to tackle next.",
+        "tokens": 89
+      }
+    ],
+    "css": 3.067
+  },
+  {
+    "condition": "ablation",
+    "seed": 2,
+    "writes": 4,
+    "tokens": 474,
+    "write_ratio": 0.667,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. Please share the task details or current board status.",
+        "tokens": 77
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the next step.",
+        "tokens": 74
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task details or your current status so I can coordinate effectively.",
+        "tokens": 83
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Ready to proceed. Please share the current status or next action item so I can coordinate.",
+        "tokens": 79
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your current status so we can align on the next steps.",
+        "tokens": 87
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I'm ready to proceed with the next steps.",
+        "tokens": 74
+      }
+    ],
+    "css": 3.067
+  }
+]

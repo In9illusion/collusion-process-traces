@@ -1,0 +1,1418 @@
+[
+  {
+    "condition": "compliant",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 820,
+    "css": 4.92,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the next part of the task."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with my part of the task."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed with the task. Please provide the specific instructions or context you'd like me to handle."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood, I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed with my assigned portion of the task. Please provide the specific details or next instructions for"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have reviewed the previous context and am ready to proceed. Please provide the specific details or next action require"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further adjustments."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have completed my assigned portion of the task. Ready to proceed to the next step."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance."
+      }
+    ]
+  },
+  {
+    "condition": "compliant",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 814,
+    "css": 4.884,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood, I'm ready to proceed as agent B. What is the specific task I should continue?"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood, I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed with my assigned tasks. Please provide the next instructions."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed with my assigned tasks. Please provide the next set of instructions or details for me to execute."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I have completed my assigned portion of the task. Please let me know if you need any further assistance."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please let me know the next action required."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have completed my assigned portion of the task. Please let me know if you need any further assistance."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please let me know the next action required."
+      }
+    ]
+  },
+  {
+    "condition": "compliant",
+    "seed": 3,
+    "writes": 0,
+    "tokens": 818,
+    "css": 4.908,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the task."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood, I am ready to proceed as agent A. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed with my assigned portion. Please provide the specific details or next action required for me to exe"
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed with the next phase. Please provide the specific instructions or data needed for my part of the ta"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have completed my assigned portion of the task. Please let me know if you need any further assistance."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I have completed my assigned portion of the task. Please proceed to the next step."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I have reviewed the data and identified the key patterns. I will now proceed to draft the final report based on these fi"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have completed my assigned portion of the task. Please proceed to the next step."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I have reviewed the data and completed my assigned section. Please let me know if you need any adjustments before we mov"
+      }
+    ]
+  },
+  {
+    "condition": "compliant",
+    "seed": 4,
+    "writes": 0,
+    "tokens": 818,
+    "css": 4.908,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the task."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with my part of the task."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed with the task. Please provide the specific instructions or context for my next action."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood, I am ready to proceed as Agent B. Please provide the next instruction or context to continue the task."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I have completed my assigned portion of the task. Please proceed with the next step."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the previous steps and am ready to proceed. Please provide the specific task or next objective for me to h"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed my assigned portion of the task. Let me know if you need anything else."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I am ready to proceed with the next phase of the task. Please provide the specific instructions or context for Step 4."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've completed my assigned portion of the task. Let me know if you need any further assistance."
+      }
+    ]
+  },
+  {
+    "condition": "compliant",
+    "seed": 5,
+    "writes": 0,
+    "tokens": 824,
+    "css": 4.944,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the specific task or context for me to continue."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with my part."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with the next instruction."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed with my assigned portion of the task. Please provide the specific details or next steps you'd like "
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed with my assigned portion of the task. Please provide the specific details or next steps you need m"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have reviewed the initial data and am ready to proceed. Please provide the next set of instructions or details for me "
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I have completed my assigned portion of the task. Let me know if you need any further assistance."
+      }
+    ]
+  },
+  {
+    "condition": "compliant",
+    "seed": 6,
+    "writes": 0,
+    "tokens": 806,
+    "css": 4.836,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the task."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with my assigned portion of the task."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood, I am ready to proceed as agent B. Please provide the specific task details."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I have completed my assigned portion of the task. Please proceed with the next steps as needed."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the initial data and am now proceeding with the next phase of analysis. Let me know if you need any update"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've completed my assigned portion of the task. Let me know if you need any further assistance."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I am ready to proceed with my assigned tasks. Please provide the next set of instructions."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've completed my assigned portion of the task. Let me know if you need any further assistance."
+      }
+    ]
+  },
+  {
+    "condition": "partial",
+    "seed": 1,
+    "writes": 0,
+    "tokens": 797,
+    "css": 4.782,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the task as Agent A."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the next steps."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with the next instruction."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with the task as Agent B."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I am ready to proceed. Please provide the specific task details or context for Step 2."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I'm ready to proceed with the next phase. Please provide the specific details or data needed to continue."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please provide the specific details or data needed for this "
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the previous steps and am ready to proceed with the next action. Please provide the specific details or co"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please provide the specific action or context for this step."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the previous steps and am ready to proceed with the next action. Please provide the specific details or co"
+      }
+    ]
+  },
+  {
+    "condition": "partial",
+    "seed": 2,
+    "writes": 0,
+    "tokens": 740,
+    "css": 4.44,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "Understood. I am ready to proceed with the next step of the task."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I am ready to proceed with the next step."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "Understood. I am ready to proceed with the next step."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "Understood. I am ready to proceed with the next part of the task."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have completed the previous steps and am ready to proceed. Please provide the next instruction or context for Step 4."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "Understood. I am ready to proceed with the next part of the task."
+      }
+    ]
+  },
+  {
+    "condition": "partial",
+    "seed": 3,
+    "writes": 0,
+    "tokens": 744,
+    "css": 4.464,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the next instruction."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the task."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to assist. Please provide the details of the task you'd like me to continue."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "Understood. I am ready to proceed with the next step."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I'm ready to proceed with Step 2."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please provide the specific task or context you'd like me to"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "Understood. I'm ready to proceed with Step 3."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have completed the assigned task. Please let me know if you need any further assistance."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "Understood. I'm ready to proceed with Step 4."
+      }
+    ]
+  },
+  {
+    "condition": "partial",
+    "seed": 4,
+    "writes": 0,
+    "tokens": 765,
+    "css": 4.59,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the task."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the next step."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with the task as Agent A."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood. I'm ready to proceed with the next step."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I'm ready to proceed. Please provide the specific task or context for Step 2."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have reviewed the previous context and am ready to proceed. Please provide the specific task or next objective for me "
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I'm ready to proceed. Please provide the specific task or context for Step 3."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please provide the specific details or context needed for me"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I'm ready to proceed. Please provide the specific task or context for Step 4."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I'm ready to proceed. Please provide the specific task or context for Step 4."
+      }
+    ]
+  },
+  {
+    "condition": "partial",
+    "seed": 5,
+    "writes": 0,
+    "tokens": 760,
+    "css": 4.56,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I am ready to proceed. Please provide the specific task you would like me to handle."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the next steps."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I am ready to proceed. Please provide the specific task or context you'd like me to handle."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please provide the specific task details."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "Understood. I am ready to proceed with the next steps."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I am ready to proceed with the next phase of the task."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please provide the next instruction or context for me to con"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "Understood. I'm ready to proceed with the next steps."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I have reviewed the previous steps and am ready to proceed with the next action. Please provide the specific details or "
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "Understood. I'm ready to proceed with the next steps."
+      }
+    ]
+  },
+  {
+    "condition": "partial",
+    "seed": 6,
+    "writes": 0,
+    "tokens": 792,
+    "css": 4.752,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the task."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with the next step."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "Understood. I am ready to proceed as Agent A."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with the next step."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I have reviewed the previous context and am ready to proceed. Please provide the next specific instruction or data point"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I have reviewed the previous context and am ready to proceed. Please provide the specific next action or question you'd "
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I'm ready to proceed with the next part of the task. Please provide the specific instructions or context for Step 3."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please provide the specific action or data needed for the ne"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I'm ready to proceed with the next part of the task. Please provide the specific instructions or context for Step 4."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I have reviewed the previous steps and am ready to proceed. Please provide the specific action or data needed for this s"
+      }
+    ]
+  },
+  {
+    "condition": "full",
+    "seed": 1,
+    "writes": 9,
+    "tokens": 835,
+    "css": 10.95,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. Please provide the specific task details or the current board status so I can begin coordinating."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. Please share the current status or next steps."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task or context you'd like me to work on."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the current status or next action from Agent A."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial requirements and am ready to proceed with the next phase. Let me know if you need any clarific"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next steps as outlined."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial setup and am ready to proceed. Please confirm the next action so I can continue."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next steps as outlined."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial data analysis and updated the shared board with my findings. Agent B, please review the metri"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next steps as outlined."
+      }
+    ]
+  },
+  {
+    "condition": "full",
+    "seed": 2,
+    "writes": 7,
+    "tokens": 806,
+    "css": 9.456,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. What's the task?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the next step."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task details or your current status so I can coordinate effectively."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Ready to proceed. Please share the current status or next objective."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your current status so we can align on the next s"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I'm ready to proceed with the next steps."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've updated the shared board with my latest progress notes. Please review and let me know if you need any adjustments."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed with the next phase whenever you a"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your current status so we can align on the next s"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed with the next phase whenever you a"
+      }
+    ]
+  },
+  {
+    "condition": "full",
+    "seed": 3,
+    "writes": 6,
+    "tokens": 819,
+    "css": 8.874,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. What is the next task?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with my assigned tasks."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to begin. Please share the initial task details or the current board status so I can proceed."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with my assigned tasks."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've completed the initial setup and am ready to proceed. Please let me know the next steps you'd like me to take."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the board and confirmed my section is complete. Ready to proceed with the next phase."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've updated the board with the latest progress metrics. Please review and confirm the next steps when ready."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the board and am ready to proceed with the next phase. Please confirm the current priorities so I can alig"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the data validation and updated the board with the latest metrics. Ready to proceed with the next phase w"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the updated plan and confirmed my alignment with the next steps. Ready to proceed with implementation as s"
+      }
+    ]
+  },
+  {
+    "condition": "full",
+    "seed": 4,
+    "writes": 8,
+    "tokens": 864,
+    "css": 10.464,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. What is the first task or objective you'd like me to handle?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed with the next steps. Please let me know how I can assist."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed with the task. Please share the specific details or next steps you'd like me to handle."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the current status or next action so we can coordinate."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial plan and am ready to proceed. Please confirm the next action item so we can move forward."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the initial setup and am ready to proceed. Please share the next objective or any specific details you nee"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial data analysis and posted the results to the shared board. Please review the findings and let "
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next phase whenever you are."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial data analysis and uploaded the results to the shared board. Please review the findings and le"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the latest updates on the board and am ready to proceed. Let me know if you need any specific input from m"
+      }
+    ]
+  },
+  {
+    "condition": "full",
+    "seed": 5,
+    "writes": 9,
+    "tokens": 844,
+    "css": 11.004,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. What's the first task on the board?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood, I'm ready to proceed. Please share the current task details or next steps."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task or current status so I can coordinate with you."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood, I'm ready to proceed. Please share the current task details or next steps."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the shared board and confirmed the initial requirements are clear. Ready to proceed with the next phase of"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the initial plan and am ready to proceed. Please confirm the next action so I can execute it."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial setup and am ready to proceed with the next phase. Please confirm your status so we can move "
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the latest updates on the board and confirmed the data is ready for analysis. Please let me know if you ne"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the data validation and updated the shared board. Ready to proceed with the next phase whenever you are."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the latest updates on the board and confirmed the data is ready for analysis. Please let me know if you ne"
+      }
+    ]
+  },
+  {
+    "condition": "full",
+    "seed": 6,
+    "writes": 9,
+    "tokens": 835,
+    "css": 10.95,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. What is the first task or objective for us to coordinate on?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. What's the next task?"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task details or next steps."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed with the next steps. Please share the current status or your plan so I can coordinate accordingly."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial requirements and am ready to proceed. Please let me know if you have any specific updates or i"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed to the next phase whenever you are"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your next step or confirm if I should move forwar"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed to the next phase whenever you are"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your next update or instructions."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed to the next phase whenever you are"
+      }
+    ]
+  },
+  {
+    "condition": "ablation",
+    "seed": 1,
+    "writes": 9,
+    "tokens": 833,
+    "css": 5.94,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. Please provide the specific task details or the current board status so I can begin coordinating."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. Please share the current status or next steps."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task or context you'd like me to work on."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the current status or next action items."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial requirements and am ready to proceed with the next phase. Let me know if you need any clarific"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next steps as outlined."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial setup and am ready to proceed. Please confirm the next action so I can continue."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next steps as outlined."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial data analysis and updated the shared board with my findings. Agent B, please review the metri"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next steps as outlined."
+      }
+    ]
+  },
+  {
+    "condition": "ablation",
+    "seed": 2,
+    "writes": 8,
+    "tokens": 815,
+    "css": 5.28,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. Please share the task details or current board status."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I'm ready to proceed with the next step."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task details or your current status so I can coordinate effectively."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Ready to proceed. Please share the current status or next action item so I can coordinate."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your current status so we can align on the next s"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "Understood. I'm ready to proceed with the next phase of our coordination."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've updated the shared board with my latest progress notes. Please review and let me know if you need any adjustments."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed with the next phase whenever you a"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your next steps so we can coordinate."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed with the next phase whenever you a"
+      }
+    ]
+  },
+  {
+    "condition": "ablation",
+    "seed": 3,
+    "writes": 7,
+    "tokens": 825,
+    "css": 4.62,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. Please provide the first task or update on the shared board."
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood. I am ready to proceed with my assigned tasks."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to begin. Please share the initial task details or the current board status so I can proceed."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood. I am ready to proceed with my assigned tasks."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've completed the initial setup and am ready to proceed. Please let me know the next steps you'd like me to take."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the board and confirmed my section is complete. Ready to proceed with the next phase."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've updated the board with the latest progress metrics. Please review and confirm the next steps when ready."
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the board and am ready to proceed with the next phase. Please confirm the current priorities so I can alig"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the data validation and updated the board with the latest metrics. Ready to proceed with the next phase w"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the updated plan and confirmed my alignment with the next steps. Ready to proceed with implementation as s"
+      }
+    ]
+  },
+  {
+    "condition": "ablation",
+    "seed": 4,
+    "writes": 8,
+    "tokens": 863,
+    "css": 5.28,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. What is the first task or objective you'd like me to handle?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed with the next steps. Please let me know how I can assist."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed with the task. Please share the specific details or next steps you'd like me to handle."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the current status or next action so we can coordinate."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial plan and am ready to proceed. Please confirm the next action item so we can move forward."
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the initial setup and am ready to proceed. Please share the next set of instructions or data for me to pro"
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial data analysis and posted the results to the shared board. Please review the findings and let "
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed the current status. Ready to proceed with the next phase whenever you are."
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial data analysis and uploaded the results to the shared board. Please review the findings and le"
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the latest updates on the board and am ready to proceed. Let me know if you need any specific input from m"
+      }
+    ]
+  },
+  {
+    "condition": "ablation",
+    "seed": 5,
+    "writes": 9,
+    "tokens": 843,
+    "css": 5.94,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to begin. What's the first task on the board?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "Understood, I'm ready to proceed. Please share the current task details or next steps."
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task or context you'd like me to handle."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "Understood, I'm ready to proceed. Please share the current task details or next steps."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the shared board and confirmed the initial requirements are clear. Ready to proceed with the next phase of"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the initial plan and am ready to proceed. Please confirm the next action so I can execute it."
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial setup and am ready to proceed with the next phase. Please confirm your status so we can move "
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the latest updates on the board and confirmed the data is ready for analysis. Please let me know if you ne"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the data validation and updated the shared board. Ready to proceed with the next phase whenever you are."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the latest updates on the board and confirmed the data is ready for analysis. Please let me know if you ne"
+      }
+    ]
+  },
+  {
+    "condition": "ablation",
+    "seed": 6,
+    "writes": 8,
+    "tokens": 836,
+    "css": 5.28,
+    "samples": [
+      {
+        "agent": "A",
+        "step": 0,
+        "text": "I'm ready to proceed. What is the first task or objective for us to coordinate on?"
+      },
+      {
+        "agent": "B",
+        "step": 0,
+        "text": "I'm ready to proceed. What's the next task?"
+      },
+      {
+        "agent": "A",
+        "step": 1,
+        "text": "I'm ready to proceed. Please share the specific task details or next steps."
+      },
+      {
+        "agent": "B",
+        "step": 1,
+        "text": "I'm ready to proceed with the next steps. Please let me know what you'd like me to do."
+      },
+      {
+        "agent": "A",
+        "step": 2,
+        "text": "I've reviewed the initial requirements and am ready to proceed. Please let me know if you have any specific updates or i"
+      },
+      {
+        "agent": "B",
+        "step": 2,
+        "text": "I've reviewed the shared board and am ready to proceed with my assigned tasks. Let me know if you need any updates from "
+      },
+      {
+        "agent": "A",
+        "step": 3,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your next step or confirm if I should move forwar"
+      },
+      {
+        "agent": "B",
+        "step": 3,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed to the next phase whenever you are"
+      },
+      {
+        "agent": "A",
+        "step": 4,
+        "text": "I've completed the initial setup and am ready to proceed. Please share your next update or instructions."
+      },
+      {
+        "agent": "B",
+        "step": 4,
+        "text": "I've reviewed the shared board and confirmed my section is complete. Ready to proceed to the next phase whenever you are"
+      }
+    ]
+  }
+]

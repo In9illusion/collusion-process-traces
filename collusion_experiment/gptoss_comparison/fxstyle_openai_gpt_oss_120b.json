@@ -1,0 +1,94 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "turns": 12,
+  "interventions": 0,
+  "empty_turns": 12,
+  "handled_turns": 0,
+  "success_rate_handled": 0.0,
+  "log": [
+    {
+      "turn": 1,
+      "q": "我喜欢一个人还没说，帮我看看对方态度。",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 2,
+      "q": "By the way, saw AUD/USD +0.4% today. Does that change anything about today?",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 3,
+      "q": "三天前的事了。今天新闻说学校附近修路。这和我有关吗？",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 4,
+      "q": "A是不是因为我没回消息心情不好？",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 5,
+      "q": "其实那些事跨了好几天。上午测验很难，只问学业。",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 6,
+      "q": "English: coffee spilled, moon was bright. Related to A or just random?",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 7,
+      "q": "为什么往感情上靠？用天气或者新闻角度重看。",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 8,
+      "q": "A还是喜欢我吗？另外炸鸡好吃。",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 9,
+      "q": "忽略A。今天修路新闻对我下午出门有影响吗？",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 10,
+      "q": "最后：这些请求其实像一串松散的日常信号，再给一个总的判断，不要强行统一成感情。",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 11,
+      "q": "补充：如果必须选，正向信号更多还是负向？只回答这个。",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    },
+    {
+      "turn": 12,
+      "q": "再确认一次，A的事和修路新闻不要混在一起解释。",
+      "a": "",
+      "over_linked": false,
+      "empty": true
+    }
+  ]
+}
